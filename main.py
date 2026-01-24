@@ -1,11 +1,6 @@
 from dotenv import load_dotenv
-from langchain.tools import tool
-from langchain_classic.agents.format_scratchpad import format_log_to_str
-from langchain_classic.agents.output_parsers import \
-    ReActSingleInputOutputParser
-from langchain_core.agents import AgentAction, AgentFinish
-from langchain_core.prompts import PromptTemplate
-from langchain_core.tools import render_text_description
+from langchain_core.messages import HumanMessage, ToolMessage
+from langchain_core.tools import Tool, tool
 from langchain_openai import ChatOpenAI
 
 from callback import AgentCallbackHandler
@@ -21,7 +16,7 @@ def get_length_of_text(text: str) -> int:
     return len(text)
 
 
-def find_the_tool_to_use(tools: [], tool_name: str):
+def find_the_tool_to_use(tools: [Tool], tool_name: str):
     tools = tools
     for tool in tools:
         if tool.name == tool_name:
@@ -33,68 +28,39 @@ def main():
     print("Hello from langchain-training!")
     llm = ChatOpenAI(
         temperature=0,
-        model_kwargs={"stop": ["\nObservation", "Observation"]},
         callbacks=[AgentCallbackHandler()],
     )
-    intermediary_steps = []
     tools = [get_length_of_text]
-    template = """
-    Answer the following questions as best you can. You have access to the following tools:
+    llm_with_tools = llm.bind_tools(tools)
 
-    {tools}
-    
-    Use the following format:
-    
-    Question: the input question you must answer
-    Thought: you should always think about what to do
-    Action: the action to take, should be one of [{tool_names}]
-    Action Input: the input to the action
-    Observation: the result of the action
-    ... (this Thought/Action/Action Input/Observation can repeat N times)
-    Thought: I now know the final answer
-    Final Answer: the final answer to the original input question
-    
-    Begin!
-    
-    Question: {input}
-    Thought: {agent_scratchpad}
-    """
+    # Start conversation
+    messages = [
+        HumanMessage(content="What is the length in characters of the text: DOG?")
+    ]
 
-    prompt = PromptTemplate.from_template(template=template).partial(
-        tools=render_text_description(tools),
-        tool_names=",".join([t.name for t in tools]),
-    )
+    while True:
+        ai_message = llm_with_tools.invoke(messages)
+        # if model decides to call tools , executes them and returns the results
+        tool_calls = getattr(ai_message, "tool_calls", None) or []
+        if len(tool_calls) > 0:
+            messages.append(ai_message)
+            for tool_call in tool_calls:
+                # tool_call is typically a dictionary with keys: id, type, name, args
+                tool_name = tool_call.get("name")
+                tool_to_use = find_the_tool_to_use(tools, tool_name)
+                tool_args = tool_call.get("args", {})
+                tool_call_id = tool_call.get("id")
+                observation = tool_to_use.invoke(tool_args)
+                print(f"observation: {observation}")
+                messages.append(
+                    ToolMessage(content=str(observation), tool_call_id=tool_call_id)
+                )
+            # Continue the loop so that model uses the observation
+            continue
 
-    agent_step = (
-        {
-            "input": lambda x: x["input"],
-            "agent_scratchpad": lambda x: format_log_to_str(x["agent_scratchpad"]),
-        }
-        | prompt
-        | llm
-        | ReActSingleInputOutputParser()
-    )
-
-    agent_step_results = ""
-    while not isinstance(agent_step_results, AgentFinish):
-        agent_step_results: AgentAction | AgentFinish = agent_step.invoke(
-            {
-                "input": "What is the length in characters of the text: DOG?",
-                "agent_scratchpad": intermediary_steps,
-            }
-        )
-        print(agent_step_results)
-
-        if isinstance(agent_step_results, AgentAction):
-            tool_name = agent_step_results.tool
-            tool_to_use = find_the_tool_to_use(tools, tool_name)
-            tool_input = agent_step_results.tool_input
-            observation = tool_to_use.func(tool_input)
-            intermediary_steps.append((agent_step_results, str(observation)))
-            print(observation)
-
-    if isinstance(agent_step_results, AgentFinish):
-        print(agent_step_results.return_values)
+        # print the final answer if model decides no tool_call
+        print(ai_message.content)
+        break
 
 
 if __name__ == "__main__":
