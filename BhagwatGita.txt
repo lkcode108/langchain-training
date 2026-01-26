@@ -1,0 +1,574 @@
+Bhagavad Gita at Sanskrit Wikisource
+ The Bhagavad Gita at English Wikisource
+The Bhagavad Gita (/ˈbʌɡəvəd ˈɡiːtɑː/;[1] Sanskrit: भगवद्गीता, IPA: [ˌbʱɐɡɐʋɐd ˈɡiːtɑː], romanized: bhagavad-gītā, lit. 'God's song'),[a] often referred to as the Gita (IAST: gītā), is a Hindu scripture, likely composed in the second or first century BCE,[7] which forms part of the epic poem Mahabharata. The Gita is a synthesis of various strands of Indian religious thought, including the Vedic concept of dharma (duty, rightful action); Sankhya-based yoga and jnana (knowledge); and bhakti (devotion).[8][b] Among the Hindu traditions, the Gita holds a unique pan-Hindu influence as the most prominent sacred text and is a central text in the Vedanta and Vaishnava traditions.
+
+While traditionally attributed to the sage Veda Vyasa, the Gita is historiographically regarded as a composite work by multiple authors.[9][10][11] Incorporating teachings from the Upanishads and the samkhya yoga philosophy, the Gita is set in a narrative framework of dialogue between the Pandava prince Arjuna and his charioteer guide Krishna, an avatar of Vishnu, at the onset of the Kurukshetra War.[6]
+
+Though the Gita praises the benefits of yoga[12][13] in releasing man's inner essence from the bounds of desire and the wheel of rebirth,[6] the text propagates the Brahmanic idea of living according to one's duty or dharma, in contrast to the ascetic ideal of seeking liberation by avoiding all karma.[12] Facing the perils of war, Arjuna hesitates to perform his duty (dharma) as a warrior. Krishna persuades him to commence in battle, arguing that while following one's dharma, one should not consider oneself to be the agent of action, but attribute all of one's actions to God (bhakti).[14][15]
+
+The Gita posits the existence of an individual self (mind/ego) and the higher Godself (Krishna, Atman/Brahman) in every being;[c] the Krishna–Arjuna dialogue has been interpreted as a metaphor for an everlasting dialogue between the two.[d] Numerous classical and modern thinkers have written commentaries on the Gita with differing views on its essence and the relation between the individual self (jivatman) and God (Krishna)[16] or the supreme self (Atman/Brahman). In the Gita's Chapter XIII, verses 24–25, four pathways to self-realization are described, which later became known as the four yogas: meditation (raja yoga), insight and intuition (jnana yoga), righteous action (karma yoga), and loving devotion (bhakti yoga). This influential classification gained widespread recognition through Swami Vivekananda's teachings in the 1890s.[17][18] The setting of the text in a battlefield has been interpreted by several modern Indian writers as an allegory for the struggles and vagaries of human life.
+
+Etymology
+The Gita in the title of the Bhagavad Gita means "song". Religious leaders and scholars interpret the word Bhagavad in several ways. Accordingly, the title has been interpreted as "the song of God", "the word of God" by theistic schools,[19] "the words of the Lord",[20] "the Divine Song",[21][page needed][22] and "Celestial Song" by others.[23]
+
+The Sanskrit name is often written as Shrimad Bhagavad Gita or Shrimad Bhagavadgita (श्रीमद् भगवद् गीता or श्रीमद् भगवद्गीता). The prefix shrimad (or shrimat) denotes a high degree of respect. The Bhagavad Gita is not to be confused with the Bhagavata Puran, which is one of the eighteen major Puranas dealing with the life of the Hindu God Krishna and various avatars of Vishnu.[24]
+
+The work is also known as the Iswara Gita, the Ananta Gita, the Hari Gita, the Vyasa Gita, or the Gita.[25]
+
+Dating and authorship
+Dating
+
+Vāsudeva-Krishna, on a coin of Agathocles of Bactria c. 180 BCE.[26][27] This is "the earliest unambiguous image" of the deity.[28]
+The text is generally dated to the second or first century BCE,[3][4][5][6] though later (1st c. CE)[29] and earlier estimates (400-500 BCE)[30] have also been given, while 200 BCE may also be the date of a major revision.[31]
+
+According to Jeaneane Fowler, "the dating of the Gita varies considerably" and depends in part on whether one accepts it to be a part of the early versions of the Mahabharata, or a text that was inserted into the epic at a later date.[32] The earliest "surviving" components therefore are believed to be no older than the earliest "external" references we have to the Mahabharata epic. The Mahabharata – the world's longest poem – is itself a text that was likely written and compiled over several hundred years, one dated between "400 BCE or little earlier, and 2nd century CE, though some claim a few parts can be put as late as 400 CE", states Fowler. The dating of the Gita is thus dependent on the uncertain dating of the Mahabharata. The actual dates of composition of the Gita remain unresolved.[32]
+
+According to Arthur Basham, the context of the Bhagavad Gita suggests that it was composed in an era when the ethics of war were being questioned and renunciation of monastic life was becoming popular.[33] Such an era emerged after the rise of Buddhism and Jainism in the 5th century BCE, and particularly after the semi-legendary life of Ashoka in the 3rd century BCE. Thus, the first version of the Bhagavad Gita may have been composed in or after the 3rd century BCE.[33]
+
+An old torn paper with a painting depicting the Mahabharata war, with some verses recorded in Sanskrit.
+A manuscript illustration of the battle of Kurukshetra, fought between the Kauravas and the Pandavas, recorded in the Mahabharata. c. 1700 – c. 1800 CE
+Winthrop Sargeant linguistically categorizes the Bhagavad Gita as Epic-Puranic Sanskrit, a language that succeeds Vedic Sanskrit and precedes classical Sanskrit.[34] The text has occasional pre-classical elements of the Vedic Sanskrit language, such as aorists and the prohibitive mā instead of the expected na (not) of classical Sanskrit.[34] This suggests that the text was composed after the Pāṇini era, but before the long compounds of classical Sanskrit became the norm. This would date the text as transmitted by the oral tradition to the later centuries of the 1st-millennium BCE, and the first written version probably to the 2nd or 3rd century CE.[34][35]
+
+Kashi Nath Upadhyaya dates it a bit earlier, but after the rise of Buddhism, as the Mahabharata contains references to the Buddha and Buddhist references. He states that the Gita was always a part of the Mahabharata and that dating the latter suffices in dating the Gita.[36] Based on the estimated dates of the Mahabharata as evidenced by exact quotes of it in the Buddhist literature by Asvaghosa (c. 100 CE), Upadhyaya states that the Mahabharata, and therefore the Gita, must have been well known by then for a Buddhist to be quoting it.[36][note 1] This suggests a terminus ante quem (latest date) of the Gita sometime before the 1st century CE.[36] He cites similar quotes in the dharmasutra texts, the Brahma sutras, and other literature to conclude that the Bhagavad Gita was composed in the fifth or fourth century BCE.[30] The Indologist Étienne Lamotte used a similar analysis to conclude that the Gita in its current form likely underwent one redaction that occurred in the 3rd or 2nd-century BCE.[31]
+
+Authorship
+In the Indian tradition, the Bhagavad Gita, as well as the epic Mahabharata of which it is a part, is attributed to the sage Vyasa.[38] A Hindu legend narrates that Vyasa composed it, and Ganesha, who broke one of his tusks, used this tusk to write down the Mahabharata along with the Bhagavad Gita.[9][39][note 2]
+
+Scholars consider Vyasa to be a mythical or symbolic author, in part because Vyasa is also a title or generic name for the compiler of a text, and Vyasa is also regarded by tradition as the compiler of the Vedas and the Puranas, texts dated with a time-difference of circa two millennia.[9][e]
+
+According to Alexus McLeod, a scholar of Philosophy and Asian Studies, it is "impossible to link the Bhagavad Gita to a single author", and it may be the work of many authors.[9][10] This view is shared by the Indologist Arthur Basham, who states that there were three or more authors or compilers of Bhagavad Gita. This is evidenced by the discontinuous intermixing of philosophical verses with theistic or passionately theistic verses, according to Basham.[11][note 3]
+
+J. A. B. van Buitenen, an Indologist known for his translations and scholarship on Mahabharata, finds that the Gita is so contextually and philosophically well-knit within the Mahabharata that it was not an independent text that "somehow wandered into the epic".[42] The Gita, states van Buitenen, was conceived and developed by the Mahabharata authors to "bring to a climax and solution the dharmic dilemma of a war".[42][note 4]
+
+Vāsudeva-Krishna roots
+According to Dennis Hudson, there is an overlap between Vedic and Tantric rituals within the teachings found in the Bhagavad Gita.[45] Dennis Hudson places the Pancaratra Agama in the last three or four centuries of 1st-millennium BCE, and proposes that both the tantric and vedic, the Agama and the Gita share the same Vāsudeva-Krishna roots.[46]
+
+According to Hudson, a story in this Vedic text highlights the meaning of the name Vāsudeva as the 'shining one (deva) who dwells (Vasu) in all things and in whom all things dwell', and the meaning of Vishnu to be the 'pervading actor'. In the Bhagavad Gita, similarly, 'Krishna identified himself both with Vāsudeva, Vishnu and their meanings'.[47][note 5] The ideas at the centre of Vedic rituals in Shatapatha Brahmana and the teachings of the Bhagavad Gita revolve around this absolute Person, the primordial genderless absolute, which is the same as the goal of Pancaratra Agama and Tantra.[49]
+
+Manuscripts and layout
+Photograph of four pieces of paper with verses in Sanskrit.
+A Sanskrit manuscript of the Bhagavad Gita in the Devanagari script. c. 1800 – c. 1900 CE
+The Bhagavad Gita manuscript is found in the sixth book of the Mahabharata manuscripts – the Bhisma-parvan. Therein, in the third section, the Gita forms chapters 23–40, that is 6.3.23 to 6.3.40.[50] The Bhagavad Gita is often preserved and studied on its own, as an independent text with its chapters renumbered from 1 to 18.[50] The Bhagavad Gita manuscripts exist in numerous Indic scripts.[51] These include writing systems that are currently in use, as well as early scripts such as the now dormant Sharada script.[51][52] Variant manuscripts of the Gita have been found on the Indian subcontinent.[53][54] Unlike the enormous variations in the remaining sections of the surviving Mahabharata manuscripts, the Gita manuscripts show only minor variations.[53][54]
+
+According to Gambhirananda, the old manuscripts may have had 745 verses, though he agrees that "700 verses is the generally accepted historic standard."[55] Gambhirananda's view is supported by a few versions of chapter 6.43 of the Mahabharata. According to Gita exegesis scholar Robert Minor, these versions state that the Gita is a text where "Kesava [Krishna] spoke 574 slokas, Arjuna 84, Sanjaya 41, and Dhritarashtra 1".[56] An authentic manuscript of the Gita with 745 verses has not been found.[57] Adi Shankara, in his 8th-century commentary, explicitly states that the Gita has 700 verses, which was likely a deliberate declaration to prevent further insertions and changes to the Gita. Since Shankara's time, "700 verses" has been the standard benchmark for the critical edition of the Bhagavad Gita.[57]
+
+Structure
+The Bhagavad Gita is a poem written in the Sanskrit language with 18 chapters in total.[58][59] The 700 verses[54] are structured into several ancient Indian poetic meters, with the principal being the Anushthubh chanda. Each shloka consists of a couplet, thus the entire text consists of 1,400 lines. Each shloka has two-quarter verses with exactly eight syllables. Each of these quarters is further arranged into two metrical feet of four syllables each.[58][note 6] The metered verse does not rhyme.[60] While the anushthubh chanda is the principal meter used, it does deploy other elements of Sanskrit prosody (which refers to one of the six Vedangas, or limbs of Vedic statues).[61] At dramatic moments, it uses the tristubh meter found in the Vedas, where each line of the couplet has two-quarter verses with exactly eleven syllables.[60]
+
+Characters
+Arjuna, one of the five Pandavas
+Krishna, Arjuna's charioteer and guru who was actually an incarnation of Vishnu
+Sanjaya, counselor of the Kuru king Dhritarashtra (secondary narrator)
+Dhritarashtra, Kuru king (Sanjaya's audience) and father of the Kauravas
+Narrative
+The Gita is a dialogue between Krishna and Arjuna right before the start of the climactic Kurukshetra War in the Hindu epic Mahabharata.[62][note 7] Two massive armies have gathered to destroy each other. The Pandava prince Arjuna asks his charioteer Krishna to drive to the centre of the battlefield so that he can get a good look at both the armies and all those "so eager for war".[64] He sees that some among his enemies are his relatives, beloved friends, and revered teachers. He does not want to fight to kill them and is thus filled with doubt and despair on the battlefield.[65] He drops his bow, wonders if he should renounce his duty and just leave the battlefield.[64] He turns to his charioteer and guide, Krishna, for advice on the rationale for war, his choices, and the right thing to do. The Bhagavad Gita is the compilation of Arjuna's questions and moral dilemma and Krishna's answers and insights that elaborate on a variety of philosophical concepts.[64][66][67]
+
+
+Vintage Hindu God Krishan Gita Birth Litho Print Original Vasudeo Pandya. c. 1932 CE
+The compiled dialogue goes far beyond the "rationale for war"; it touches on many human ethical dilemmas, philosophical issues and life's choices.[64][68] According to Flood and Martin, although the Gita is set in the context of a wartime epic, the narrative is structured to apply to all situations; it wrestles with questions about "who we are, how we should live our lives, and how should we act in the world".[69] According to Huston Smith, it delves into questions about the "purpose of life, crisis of self-identity, human Self, human temperaments, and ways for the spiritual quest".[70]
+
+The Gita posits the existence of two selves in an individual,[c] and its presentation of the Krishna-Arjuna dialogue has been interpreted as a metaphor for an eternal dialogue between the two.[d]
+
+Textual significance
+Synthesis prioritizing dharma and bhakti
+See also: Smarta tradition
+The Bhagavad Gita is a synthesis of Vedic and non-Vedic traditions,[73][b][f] reconciling renunciation with action by arguing that they are inseparable; while following one's dharma, one should not consider oneself to be the agent of action, but attribute all one's actions to God.[14][74] It is a Brahmanical text that uses Shramanic and Yogic terminology to propagate the Brahmanic idea of living according to one's duty or dharma, in contrast to the ascetic ideal of liberation by avoiding all karma.[12] According to Hiltebeitel, the Bhagavad Gita is the sealing achievement of the consolidation of Hinduism, merging Bhakti traditions with Mimamsa, Vedanta, and other knowledge based traditions.[75]
+
+
+A didactic print that uses the Gita scene as a focal point for general religious instruction. c. 1960 – c. 1970 CE
+The Gita discusses and synthesizes sramana- and yoga-based renunciation, dharma-based householder life, and devotion-based theism, attempting "to forge a harmony" between these three paths.[76][f] It does this in a framework addressing the question of what constitutes the virtuous path that is necessary for spiritual liberation or release from the cycles of rebirth (moksha),[77][78] incorporating various religious traditions,[79][80][76] including philosophical ideas from the Upanishads[81][6] samkhya yoga philosophy,[6] and bhakti, incorporating bhakti into Vedanta.[75] As such, it neutralizes the tension between the Brahmanical worldorder with its caste-based social institutions that hold society together, and the search for salvation by ascetics who have left society.[82]
+
+Rejection of sramanic non-action
+Knowledge is indeed better than practice;
+Meditation is superior to knowledge;
+Renunciation of the fruit of action is better than meditation;
+Peace immediately follows renunciation.
+
+Bhagavad Gita, chapter XII, verse 12[83]
+According to Gavin Flood and Charles Martin, the Gita rejects the shramanic path of non-action, emphasizing instead "the renunciation of the fruits of action".[13] According to Gavin Flood, the teachings in the Gita differ from other Indian religions that encouraged extreme austerity and self-torture of various forms (karsayanta). The Gita disapproves of these, stating that not only is it against tradition but against Krishna himself, because "Krishna dwells within all beings, in torturing the body the ascetic would be torturing him", states Flood. Even a monk should strive for "inner renunciation" rather than external pretensions.[84] It further states that the dharmic householder can achieve the same goals as the renouncing monk through "inner renunciation" or "motiveless action".[77][note 8] One must do the right thing because one has determined that it is right, states Gita, without craving for its fruits, without worrying about the results, loss or gain.[86][87][88] Desires, selfishness, and the craving for fruits can distort one from spiritual living.[87][g]
+
+Vedanta
+The Bhagavad Gita is part of the Prasthanatrayi,[92][93] which also includes the Upanishads and the Brahma Sutras, the foundational texts of the Vedanta school of Hindu philosophy.[94][h]
+
+Vaishnavism
+The Gita is a revered text in the Vaishnava tradition,[95][96][97][98][99] mostly through the Vaishnava Vedanta commentaries written on it,[99] though the text itself is also celebrated in the Puranas, for example, the Gita Mahatmya of the Varaha Purana.[i] While Upanishads focus more on knowledge and the identity of the self with Brahman, the Bhagavad Gita shifts the emphasis towards devotion and the worship of a personal deity, specifically Krishna.[16] There are alternate versions of the Bhagavad Gita (such as the one found in Kashmir), but the basic message behind these texts is not distorted.[53][100][101]
+
+Modern prominence
+
+The first detonation of a nuclear weapon led Oppenheimer to think "I am become Death, the destroyer of worlds," a statement derived from verse 11.32 of the Bhagavad Gita.[102][j]
+
+Mass recitation of the Bhagavad Gita by one lakh people in Kolkata, 24 December c. 2023 CE.
+While Hinduism is known for its diversity and the synthesis derived from it, the Bhagavad Gita holds a unique pan-Hindu influence.[106][107][k] Gerald James Larson – an Indologist and scholar of classical Hindu philosophy, states that "if there is any one text that comes near to embodying the totality of what it is to be a Hindu, it would be the Bhagavad Gita."[108][109]
+
+Yet, according to Robinson, "it is increasingly recognized by scholars that the extraordinary prominence of the Bhagavad Gita is a feature of modernity despite disagreement over the date at which it became dominant."[110] According to Eric Sharpe, this change started in the 1880s, and became prominent after 1900.[110] According to Arvind Sharma, the Bhagavad Gita was always an important scripture but became prominent in the 1920s.[110]
+
+With its translation and study by Western scholars beginning in the early 18th century, the Bhagavad Gita gained a growing appreciation and popularity in the West.[web 1] Novel interpretations of the Gita, along with apologetics on it, have been a part of the modern era revisionism and renewal movements within Hinduism.[111] According to Ronald Neufeldt, it was the Theosophical Society that dedicated much attention and energy to the allegorical interpretation of the Gita, along with religious texts from around the world, after 1885 and given H. P. Blavatsky, Subba Rao and Anne Besant writings.[112] Their attempt was to present their "universalist religion." These late 19th-century theosophical writings called the Gita a "path of true spirituality" and "teaching nothing more than the basis of every system of philosophy and scientific endeavour", triumphing over other "Samkhya paths" of Hinduism that "have degenerated into superstition and demoralized India by leading people away from practical action".[112]
+
+In April 2025, the Bhagavad Gita manuscript was added to UNESCO’s Memory of the World Register.[113][114]
+
+Hindu reform movements
+Main article: Hindu reform movements
+Neo-Hindus and Hindu nationalists have celebrated the Bhagavad Gita as containing the essence of Hinduism and taking the Gita's emphasis on duty and action as a clue for their activism for Indian nationalism and independence.[115][116] Bankim Chandra Chatterjee (1838–1894) challenged orientalist literature on Hinduism and offered his interpretations of the Gita, states Ajit Ray.[117][118] Bal Gangadhar Tilak (1856–1920) interpreted the karma yoga teachings in Gita as a "doctrine of liberation" taught by Hinduism,[119] while Sarvepalli Radhakrishnan (1888–1975) stated that the Bhagavad Gita teaches a universalist religion and the "essence of Hinduism" along with the "essence of all religions", rather than a private religion.[115]
+
+Vivekananda's (1863–1902) works contained numerous references to the Gita, such as his lectures on the four yogas – Bhakti, Jnana, Karma, and Raja.[120] Through the message of the Gita, Vivekananda sought to energise the people of India to reclaim their dormant but strong identity.[121] Aurobindo (1872–1950) saw the Bhagavad Gita as a "scripture of the future religion" and suggested that Hinduism had acquired a much wider relevance through the Gita.[122]
+
+Neo-Vedanta and yoga
+Main articles: Neo-Vedanta and Three Yogas
+
+
+While the Upanishads refer to yoga as yoking or restraining the mind,[123] the topic of BG chapter 6, the Bhagavad Gita introduces "the famous three kinds of yoga: 'knowledge' (jnana), 'action' (karma), and 'love' (bhakti)".[124] BG XIII verses 23-25 famously mention four kinds of yoga, or ways of seeing the self, adding meditation to the three yogas.[8] Yet, the practice of dhyana (meditation), is a part of all three classical paths in Hinduism.[125][126] Knowledge or insight, discerning the true self (purusha) from matter and material desires (prakriti), is the true aim of classical yoga, in which meditation and insight cannot be separated. Furthermore, the Gita "rejects the Buddhist and Jain path of non-action, emphasizing instead renunciation of the fruits of action"[13] and devotion to Krishna.[127]
+
+[23] He who in this way knows the Spirit
+And material nature, along with the qualities [guna],
+In whatever stage of transmigration he may exist,
+Is not born again.
+
+[24] Some perceive the Self in the Self
+By the Self through meditation;
+Others by the discipline of Sankhya
+And still others by the yoga of action.
+
+[25] Yet others, not knowing this,
+Worship, having heard it from others,
+And they also cross beyond death,
+Devoted to what they have heard.
+
+Bhagavad Gita, chapter XIII, verse 23-25[128]
+The systematic presentation of Hindu monotheism as divided into these four paths or "Yogas" is modern, advocated by Swami Vivekananda from the 1890s in his books on Jnana Yoga,Karma Yoga, Bhakti Yoga and Raja Yoga, emphasizing Raja Yoga as the crowning achievement of yoga.[17][18] Vivekananda, who was strongly inspired by the Gita, viewed all spiritual paths as equal.[129] Yet, Vivekananda also noted that "The reconciliation of the different paths of Dharma, and work without desire or attachment — these are the two special characteristics of the Gita."[130] Similarly, Cornille states that the Gita asserts that the path of Bhakti (devotion) is the foremost and the easiest of them all.[131]
+
+According to Huston Smith, a notable neo-Vedantin, referring to BG XIII verse 23–25, the Gita mentions four ways to see the self, based on the Samkhya-premise that people are born with different temperaments and tendencies (guṇa).[8] Some individuals are more reflective and intellectual, some are effective and engaged by their emotions, some are action-driven, yet others favour experimentation and exploring what works.[8] According to Smith, BG XIII verse 24-25 lists four different spiritual paths for each personality type respectively: the path of knowledge (jnana yoga), the path of devotion (bhakti yoga), the path of action (karma yoga), and the path of meditation (raja yoga).[8]
+
+Medieval commentators argued which path had priority.[132] According to Robinson, modern commentators have interpreted the text as refraining from insisting on one right marga (path) to spirituality.[133] According to Upadhyaya, the Gita states that none of these paths to spiritual realization is "intrinsically superior or inferior", rather they "converge in one and lead to the same goal".[134]
+
+Chapters and content
+The Bhagavad Gita contains 18 chapters and 700 verses found in the Bhishma Parva of the epic Mahabharata.[135][web 2] Because of differences in recensions, the verses of the Gita may be numbered in the full text of the Mahabharata as chapters 6.25–42 or as chapters 6.23–40.[web 3] The number of verses in each chapter vary in some manuscripts of the Gita discovered on the Indian subcontinent. However, variant readings are relatively few in contrast to the numerous versions of the Mahabharata it is found embedded in.[54]
+
+
+Adi Shankara with Disciples, by Raja Ravi Varma (c. 1904 CE). Shankara published 700 verses of the Gita (c. 800 CE), now the standard version.[citation needed]
+The original Bhagavad Gita has no chapter titles. Some Sanskrit editions that separate the Gita from the epic as an independent text, as well as translators, however, add chapter titles.[136][web 3] For example, Swami Chidbhavananda describes each of the eighteen chapters as a separate yoga because each chapter, like yoga, "trains the body and the mind". He labels the first chapter "Arjuna Vishada Yogam" or the "Yoga of Arjuna's Dejection".[137] Sir Edwin Arnold titled this chapter in his 1885 translation as "The Distress of Arjuna".[20][note 9]
+
+The chapters are:
+
+Chapter	Name of Chapter	Total Verses
+1	Arjuna Vishada Yoga	47
+2	Samkhya Yoga	72
+3	Karma Yoga	43
+4	Jnana Karma Sanyasa Yoga	42
+5	Karma Sanyasa Yoga	29
+6	Atma Samyama Yoga	47
+7	Jnana Vijnana Yoga	30
+8	Akshara Brahma Yoga	28
+9	Raja Vidya Raja Guhya Yoga	34
+10	Vibhuti Yoga	42
+11	Vishvarupa Darshana Yoga	55
+12	Bhakti Yoga	20
+13	Kshetra Kshetrajna Vibhaga Yoga	34
+14	Gunatraya Vibhaga Yoga	27
+15	Purushottama Yoga	20
+16	Daivasura Sampad Vibhaga Yoga	24
+17	Shraddha Traya Vibhaga Yoga	28
+18	Moksha Sanyasa Yoga	78
+Total	700
+Chapter 1: Arjuna Vishada Yoga (46 verses)
+Main article: Arjuna Vishada-yoga
+Translators have variously titled the first chapter as Arjuna Vishada-yoga, Prathama Adhyaya, The Distress of Arjuna, The War Within, or Arjuna's Sorrow.[20][140][141] The Bhagavad Gita is opened by setting the stage of the Kurukshetra battlefield. Two massive armies representing different loyalties and ideologies face a catastrophic war. With Arjuna is Krishna, not as a participant in the war, but only as his charioteer and counsel. Arjuna requests Krishna to move the chariot between the two armies so he can see those "eager for this war". He sees family and friends on the enemy side. Arjuna is distressed and in sorrow.[142] The issue is stated Arvind Sharma, "Is it morally proper to kill?"[143] This and other moral dilemmas in the first chapter are set in a context where the Hindu epic and Krishna have already extolled ahimsa (non-violence) to be the highest and divine virtue of a human being.[143] The war feels evil to Arjuna and he questions the morality of war. He wonders if it is noble to renounce and leave before the violence starts, or should he fight, and why.[142]
+
+Chapter 2: Sankhya Yoga (72 verses)
+Main article: Samkhya Yoga (Bhagavad Gita)
+Deeds without Expections of the Result
+
+॥ कर्मण्येवाधिकारस्ते मा फलेषु कदाचन ।
+मा कर्मफलहेतुर्भुर्मा ते सङ्गोऽस्त्वाकर्मणि॥
+
+One has the right to perform their expected duty,
+But not to the right to the fruits of action;
+One should not consider oneself as the doer of the action,
+Nor should one attach oneself to inaction.
+
+- Bhagavad Gita 2 : 47
+
+Translators title the chapter as Sankhya Yoga, The Book of Doctrines, Self-Realization, or The Yoga of Knowledge (and Philosophy).[20][140][141] The second chapter begins the philosophical discussions and teachings found in the Gita. The warrior Arjuna whose past had focused on learning the skills of his profession now faces a war he has doubts about. Filled with introspection and questions about the meaning and purpose of life, he asks Krishna about the nature of life, Self, death, afterlife and whether there is a deeper meaning and reality.[144] Krishna teaches Arjuna about the eternal nature of the soul (atman) and the temporary nature of the body, advising him to perform his warrior duty with detachment and without grief. The chapter summarizes the Hindu idea of rebirth, samsara, eternal Self in each person (Self), universal Self-present in everyone, various types of yoga, divinity within, the nature of knowledge of the Self and other concepts.[144] The ideas and concepts in the second chapter reflect the framework of the Samkhya and Yoga schools of Hindu philosophy. This chapter is an overview of the remaining sixteen chapters of the Bhagavad Gita.[144][145][146] Mahatma Gandhi memorized the last 19 verses of the second chapter, considering them as his companion in his non-violent movement for social justice during colonial rule.[147]
+
+Chapter 3: Karma Yoga (43 verses)
+Main article: Karma Yoga (Bhagavad Gita)
+Translators title the chapter as Karma yoga, Virtue in Work, Selfless Service, or The Yoga of Action.[20][140][141] After listening to Krishna's spiritual teachings in Chapter 2, Arjuna gets more confounded and returns to the predicament he faces. He wonders if fighting the war is "not so important after all" given Krishna's overview on the pursuit of spiritual wisdom. Krishna replies that there is no way to avoid action (karma) since abstention from work is also an action.[148] Krishna states that Arjuna must understand and perform his duty (dharma) because everything is connected by the law of cause and effect. Every man or woman is bound by activity. Those who act selfishly create the Karmic cause and are thereby bound to the effect which may be good or bad.[148] Those who act selflessly for the right cause and strive to do their dharmic duty are doing God's work.[148] Those who act without craving fruits are free from the Karmic effects because the results never motivate them. Whatever the result, it does not affect them. Their happiness comes from within, and the external world does not bother them.[148][149] According to Flood and Martin, chapter 3 and onwards develops "a theological response to Arjuna's dilemma".[150]
+
+Chapter 4: Jnana Karma Sanyasa Yoga (42 verses)
+O descendant of Bharata,
+whenever there is a decline of righteousness
+and an increase in unrighteousness,
+I manifest myself in this world.
+
+Bhagavad Gita 4.7
+Main article: Jnana Karma Sanyasa Yoga
+Translators title the fourth chapter as Jñāna–Karma-Sanyasa yoga, The Religion of Knowledge, Wisdom in Action, or The Yoga of Renunciation of Action through Knowledge.[20][140][141] Krishna reveals that he has taught this yoga to the Vedic sages. Arjuna questions how Krishna could do this, when those sages lived so long ago, and Krishna was born more recently. Krishna reminds him that everyone is in the cycle of rebirths, and while Arjuna does not remember his previous births, he does. Whenever dharma declines and the purpose of life is forgotten by Man, says Krishna, he returns to re-establish dharma.[note 10] Every time he returns, he teaches about the inner Self in all beings. The later verses of the chapter return to the discussion of motiveless action and the need to determine the right action, performing it as one's dharma (duty) while renouncing the results, rewards, and fruits. The simultaneous outer action with inner renunciation, states Krishna, is the secret to the life of freedom. Action leads to knowledge, while selfless action leads to spiritual awareness, state the last verses of this chapter.[151] The 4th chapter is the first time where Krishna begins to reveal his divine nature to Arjuna.[152][153]
+
+Chapter 5: Karma Sanyasa Yoga (29 verses)
+Selfless service
+
+It is not those who lack energy
+nor those who refrain from action,
+but those who work without expecting a reward
+who attain the goal of meditation,
+Theirs is true renunciation(sanyāsā).
+
+—Bhagavad Gita 6.1
+Eknath Easwaran[154][note 11]
+Main article: Karma-Sanyasa Yoga
+Translators title this chapter as Karma–Sanyasa yoga, Religion by Renouncing Fruits of Works, Renounce and Rejoice, or The Yoga of Renunciation.[20][140][141] The chapter starts by presenting the tension in the Indian tradition between the life of sannyasa (monks who have renounced their household and worldly attachments) and the life of grihastha (householder). Arjuna asks Krishna which path is better.[160] Krishna answers that both are paths to the same goal, but the path of "selfless action and service" with inner renunciation is better. The different paths, says Krishna, aim for—and if properly pursued, lead to—Self-knowledge. This knowledge leads to the universal, transcendent Godhead, the divine essence in all beings, to Brahman – to Krishna himself. The final verses of the chapter state that the self-aware who have reached self-realization live without fear, anger, or desire. They are free within, always.[161][162] Chapter 5 shows signs of interpolations and internal contradictions. For example, states Arthur Basham, verses 5.23–28 state that a sage's spiritual goal is to realize the impersonal Brahman, yet the next verse 5.29 states that the goal is to realize the personal God who is Krishna.[11]
+
+Chapter 6: Atma Samyama Yoga (47 verses)
+Translators title the sixth chapter as Dhyana yoga, Religion by Self-Restraint, The Practice of Meditation, or The Yoga of Meditation.[20][140][141] The chapter opens as a continuation of Krishna's teachings about selfless work and the personality of someone who has renounced the fruits that are found in chapter 5. Krishna says that such self-realized people are impartial to friends and enemies, are beyond good and evil, equally disposed to those who support them or oppose them because they have reached the summit of consciousness. Verses 6.10 and after proceed to summarize the principles of Yoga and meditation in a format similar to but simpler than Patanjali's Yogasutra. It discusses who is a true yogi, and what it takes to reach the state where one harbours no malice towards anyone.[163][164] Verse 6.47 emphasizes the significance of the soul's faith and loving service to Krishna as the highest form of yoga.[165]
+
+Chapter 7: Jnana Vijnana Yoga (30 verses)
+Main article: Jnana-Vijnana Yoga
+Translators title this chapter as Jnana–Vijnana yoga, Religion by Discernment, Wisdom from Realization, or The Yoga of Knowledge and Judgment.[20][140][141] The seventh chapter opens with Krishna continuing his discourse. He discusses jnana (knowledge) and vijnana (realization, understanding) using the Prakriti-Purusha (matter-Self) framework of the Samkhya school of Hindu philosophy, and the Maya-Brahman framework of the Vedanta school. The chapter states that evil is the consequence of ignorance and attachment to the impermanent, the elusive Maya. Maya is described as difficult to overcome, but those who rely on Krishna can easily cross beyond Maya and attain moksha. It states that Self-knowledge and union with Purusha (Krishna) are the highest goals of any spiritual pursuit.[166]
+
+Chapter 8: Akshara Brahma Yoga (28 verses)
+Main article: Akshara Brahma Yoga
+Translators title the chapter as Aksara–Brahma yoga, Religion by Devotion to the One Supreme God, The Eternal Godhead, or The Yoga of the Imperishable Brahman.[20][140][141] The chapter opens with Arjuna asking questions such as what is Brahman and what is the nature of karma. Krishna states that his own highest nature is the imperishable Brahman and that he lives in every creature as the adhyatman. Every being has an impermanent body and an eternal Self, and that "Krishna as Lord" lives within every creature. The chapter discusses cosmology, the nature of death and rebirth.[167] This chapter contains eschatology of the Bhagavad Gita. The importance of the last thought before death, the differences between material and spiritual worlds, and the light and dark paths that a Self takes after death are described.[167] Krishna advises Arjuna about focusing the mind on the Supreme Deity within the heart through yoga, including pranayama and chanting sacred mantra "Om" to ensure concentration on Krishna at the time of death.[168]
+
+Chapter 9: Raja Vidya Raja Guhya Yoga (34 verses)
+Translators title the ninth chapter as Raja–Vidya–Raja–Guhya yoga, Religion by the Kingly Knowledge and the Kingly Mystery, The Royal Path, or The Yoga of Sovereign Science and Sovereign Secret.[20][140][141] Chapter 9 opens with Krishna continuing his discourse as Arjuna listens. Krishna states that he is everywhere and in everything in an unmanifested form, yet he is not in any way limited by them. Eons end, everything dissolves and then he recreates another eon subjecting them to the laws of Prakriti (nature).[169] He equates himself to being the father and the mother of the universe, to being the Om, to the three Vedas, to the seed, the goal of life, the refuge and abode of all. The chapter recommends devotional worship of Krishna.[169] According to theologian Christopher Southgate, verses of this chapter of the Gita are panentheistic,[170] while German physicist and philosopher Max Bernhard Weinstein deems the work pandeistic.[171] It may, in fact, be neither of them, and its contents may have no definition with previously developed Western terms.
+
+
+A frieze in the Virupaksha temple (Pattadakal) depicting Mahabharata scenes involving Arjuna-Krishna chariot. Pattadakal is a UNESCO World Heritage Site. c. 700 CE
+Chapter 10: Vibhuti Yoga (42 verses)
+Translators title the chapter as Vibhuti–Vistara–yoga, Religion by the Heavenly Perfections, Divine Splendor, or The Yoga of Divine Manifestations.[20][140][141] When Arjuna asks of the opulence (Vibhuti) of Krishna, he explains how all the entities are his forms. He reveals his divine being in greater detail as the ultimate cause of all material and spiritual existence, as one who transcends all opposites and who is beyond any duality. Nevertheless, at Arjuna's behest, Krishna states that the following are his major opulence: He is the atman in all beings, Arjuna's innermost Self, the compassionate Vishnu, Surya, Indra, Shiva-Rudra, Ananta, Yama, as well as the Om, Vedic sages, time, Gayatri mantra, and the science of Self-knowledge. Krishna says, "Among the Pandavas, I am Arjuna," implying he is manifest in all the beings, including Arjuna. He also says that he is Rama when he says, "Among the wielders of weapons, I am Rama". Arjuna accepts Krishna as the purushottama (Supreme Being).[172]
+
+Chapter 11: Vishvarupa Darshana Yoga (55 verses)
+See also: Vishvarupa
+Translators title the chapter as Vishvarupa–Darshana yoga, The Manifesting of the One and Manifold, The Cosmic Vision, or The Yoga of the Vision of the Cosmic Form.[20][140][141] On Arjuna's request, Krishna displays his "universal form" (Viśvarūpa).[173] Arjuna asks Krishna to see the Eternal with his own eyes. The Krishna then "gives" him a "heavenly" eye so that he can recognize the All-Form Vishvarupa of the Supreme God Vishnu or Krishna. Arjuna sees the divine form, with his face turned all around as if the light of a thousand suns suddenly burst forth in the sky. And he sees neither end, middle nor beginning. And he sees the gods and the host of beings contained within him. He also sees the Lord of the gods and the universe as the Lord of time, who devours his creatures in his "maw". And he sees people rushing to their doom in haste. And the Exalted One says that even the fighters are all doomed to death. And he, Arjuna, is his instrument to kill those who are already "killed" by him. Arjuna folds his hands trembling and worships the Most High. This is an idea found in the Rigveda and many later Hindu texts, where it is a symbolism for atman (Self) and Brahman (Absolute Reality) eternally pervading all beings and all existence.[174][175] Chapter 11, states Eknath Eswaran, describes Arjuna entering first into savikalpa samadhi (a particular form), and then nirvikalpa samadhi (a universal form) as he gets an understanding of Krishna. A part of the verse from this chapter was recited by J. Robert Oppenheimer in a 1965 television documentary about the atomic bomb.[173]
+
+Chapter 12: Bhakti Yoga (20 verses)
+See also: Bhakti yoga
+Translators title this chapter as Bhakti yoga, The Religion of Faith, The Way of Love, or The Yoga of Devotion.[20][140][141] In this chapter, Krishna glorifies the path of love and devotion to God. Krishna describes the process of devotional service (Bhakti yoga). Translator Eknath Easwaran contrasts this "way of love" with the "path of knowledge" stressed by the Upanishads, saying that "when God is loved in [a] personal aspect, the way is vastly easier". He can be projected as "a merciful father, a divine mother, a wise friend, a passionate beloved, or even a mischievous child".[176] The text states that combining "action with inner renunciation" with the love of Krishna as a personal God leads to peace. In the last eight verses of this chapter, Krishna states that he loves those who have compassion for all living beings, are content with whatever comes their way, and live a detached life that is impartial and selfless, unaffected by fleeting pleasure or pain, neither craving for praise nor depressed by criticism.[176][177]
+
+Chapter 13: Kshetra Kshetrajna Vibhaga Yoga (34 verses)
+
+Sanskrit, Malayalam script (Kerala) c. 1500 – c. 1600 CE
+
+Sanskrit, Kannada script (Karnataka) c. 1700 – c. 1800 CE
+Bhagavad Gita and related commentary literature exists in numerous Indian languages.
+Translators title this chapter as Ksetra–Ksetrajna Vibhaga yoga, Religion by Separation of Matter and Spirit, The Field and the Knower, or The Yoga of Difference between the Field and Field-Knower.[20][140][141] The chapter opens with Krishna continuing his discourse. He describes the difference between the transient perishable physical body (kshetra) and the immutable eternal Self (kshetrajna). The presentation explains the difference between ahamkara (ego) and atman (Self), from there between individual consciousness and universal consciousness. The knowledge of one's true self is linked to the realization of the Self.[178][179] The 13th chapter of the Gita offers the clearest enunciation of the Samkhya philosophy, states Basham, by explaining the difference between field (material world) and the knower (Self), prakriti and purusha.[180] According to Miller, this is the chapter which "redefines the battlefield as the human body, the material realm in which one struggles to know oneself" where human dilemmas are presented as a "symbolic field of interior warfare".[181]
+
+Chapter 14: Gunatraya Vibhaga Yoga (27 verses)
+Translators title the fourteenth chapter as Gunatraya–Vibhaga yoga, Religion by Separation from the Qualities, The Forces of Evolution, or The Yoga of the Division of Three Gunas.[20][140][141] Krishna continues his discourse from the previous chapter. Krishna explains the difference between purusha and prakriti, by mapping human experiences to three Guṇas (tendencies, qualities).[182] These are listed as sattva, rajas and tamas. All thoughts, words and actions are filled with sattva (truthfulness, purity, clarity), rajas (movement, energy, passion) or tamas (darkness, inertia, stability). These gunas influence future rebirths, with sattva leading to higher states, rajas to continued material existence, and tamas to lower forms of life.[183] Whoever understands everything that exists as the interaction of these three states of being can gain knowledge, transcend all three gunas and achieve liberation.[184] When asked by Arjuna how he recognizes the one who has conquered the three gunas, Krishna replies that it is one who remains calm and composed when a guna 'arises', who always maintains equanimity, who is steadfast in joy and sorrow, who remains the same when he is reviled or admired, who renounces every action (from the ego), detaches himself from the power of the gunas. Liberation can also be reached by unwavering devotion to Krishna, which enables one to transcend the three gunas and become one with Brahman. All phenomena and individual personalities are thus a combination of all three gunas in varying and ever-changing proportions. The gunas affect the ego, but not the Self, according to the text.[182] This chapter also relies on Samkhya theories.[185][186][187]
+
+Chapter 15: Purushottama Yoga (20 verses)
+See also: Purushottama
+Translators title the chapter as Purushottama yoga, Religion by Attaining the Supreme Krishna, The Supreme Self, or The Yoga of the Supreme Purusha.[20][140][141] The fifteenth chapter expounds on Krishna's theology in the Vaishnava Bhakti tradition of Hinduism. Krishna discusses the nature of God wherein Krishna not only transcends the impermanent body (matter) but also transcends the atman (Self) in every being.[188] The chapter uses the metaphor of the Ashvattha (banyan) tree to illustrate the material world's entanglements, emphasizes detachment as the means to liberation, highlights the importance of true knowledge, and explains that those who realize this knowledge transcend the need for Vedic rituals. It follows the image of an upside-down tree with its roots in the sky, extending to infinity. It is necessary to cut down its shoots (sense objects), branches and solid root with the axe of equanimity and detachment and thereby reach the original person (adyam purusham).[189] Later, Krishna says that he is known as Purushottama in both common speech and the Veda, sustaining and governing the entire threefold world and that he is greater than the kshara (perishable), which includes all living beings, and the akshara (imperishable), which is beyond kshara. Whoever truly recognizes this has reached the ultimate goal.[190] According to Franklin Edgerton, the verses in this chapter, in association with select verses in other chapters, make the metaphysics of the Gita to be dualistic. However, its overall thesis, according to Edgerton, is more complex because other verses teach the Upanishadic doctrines and "through its God, the Gita seems after all to arrive at an ultimate monism; the essential part, the fundamental element, in everything, is after all One — is God."[191]
+
+Chapter 16: Daivasura Sampad Vibhaga Yoga (24 verses)
+Translators title the chapter as Daivasura–Sampad–Vibhaga yoga, The Separateness of the Divine and Undivine, Two Paths, or The Yoga of the Division between the Divine and the Demonic.[20][140][141] According to Easwaran, this is an unusual chapter where Krishna describes two types of human nature: divine (daivi sampad), leading to happiness, and demonic (asuri sampad), leading to suffering. He states that truthfulness, self-restraint, sincerity, love for others, desire to serve others, being detached, avoiding anger, avoiding harm to all living creatures, fairness, compassion and patience are marks of the divine nature. The opposite of these are demonic, such as cruelty, conceit, hypocrisy and being inhumane, states Krishna.[192][193][194] Some of the verses in Chapter 16 may be polemics directed against competing Indian religions, according to Basham.[33] The competing tradition may be the materialists (Charvaka), states Fowler.[194]
+
+Chapter 17: Shraddhatraya Vibhaga Yoga (28 verses)
+Translators title the chapter as Shraddhatraya-Vibhaga yoga, Religion by the Threefold Kinds of Faith, The Power of Faith, or The Yoga of the Threefold Faith.[20][140][141] Krishna qualifies various aspects of human life, including faith, thoughts, deeds, and eating habits, in relation to the three gunas (modes): sattva (goodness), rajas (passion), and tamas (ignorance). Krishna explains how these modes influence different aspects of human behaviour and spirituality, and how one can align with the mode of goodness to advance on their spiritual journey. The final verse of the Chapter stresses that genuine faith (shraddha) is essential for spiritual growth. Actions without faith are meaningless, both in the material and spiritual realms, highlighting the significance of faith in one's spiritual journey.[195]
+
+Chapter 18: Moksha Sanyasa Yoga (78 verses)
+Translators title the chapter as Moksha–Sanyasa yoga, Religion by Deliverance and Renunciation, Freedom and Renunciation, or The Yoga of Liberation and Renunciation.[20][140][141] In the final and longest chapter, the Gita offers a final summary of its teachings in the previous chapters.[196] It gives a comprehensive overview of Bhagavad Gita's teachings, highlighting self-realization, duty, and surrender to Krishna to attain liberation and inner peace.[197] It begins with the discussion of spiritual pursuits through sannyasa (renunciation, monastic life) and spiritual pursuits while living in the world as a householder. It teaches "karma-phala-tyaga" (renunciation of the fruits of actions), emphasizing the renunciation of attachment to the outcomes of actions and performing duties with selflessness and devotion.[198]
+
+Themes
+Dharma
+Main article: Dharma
+Dharma is a prominent paradigm of the Mahabharata, and it is referenced in the Gita as well. The term dharma has several meanings.[199] Fundamentally, it refers to that which is right or just.[199] Contextually, it also means the essence of "duty, law, class, social norms, ritual and cosmos itself" in the text, in the sense "the way things should be in all these different dimensions".[199] According to Zaehner, the term dharma means "duty" in the Gita's context; in verse 2.7, it refers to the "right [and wrong]", and in 14.27 to the "eternal law of righteousness".[200]
+
+Few verses in the Bhagavad Gita deal with dharma, according to the Indologist Paul Hacker, but the theme of dharma is broadly important.[201] In Chapter 1, responding to Arjuna's despondency, Krishna asks him to follow his sva-dharma,[202] "the dharma that belongs to a particular man (Arjuna) as a member of a particular varna, (i.e., the kshatriya – the warrior varna)".[118] According to Paul Hacker, the term dharma has additional meanings in the context of Arjuna. It is more broadly, the "duty" and a "metaphysically congealed act" for Arjuna.[203] According to the Indologist Jacqueline Hirst, the dharma theme is "of significance only at the beginning and end of the Gita" and this may have been a way to perhaps link the Gita to the context of the Mahabharata.[204]
+
+According to Malinar, "Arjuna's crisis and some of the arguments put forward to call him to action are connected to the debates on war and peace in the Udyoga Parva."[205] The Udyoga Parva presents many views about the nature of a warrior, his duty and what calls for heroic action. While Duryodhana presents it as a matter of status, social norms, and fate, Vidura states that the heroic warrior never submits, knows no fear and has the duty to protect people.[206] The Bhishma Parva sets the stage for two ideologies in conflict and two massive armies gathered for what each considers as a righteous and necessary war. In this context, the Gita advises Arjuna to do his holy duty (sva-dharma) as a warrior: fight and kill.[207][208][209]
+
+According to the Indologist Barbara Miller, the text frames heroism not in terms of physical abilities, but instead in terms of effort and inner commitment to fulfil a warrior's dharma on the battlefield.[210] War is depicted as a horror, the impending slaughter a cause for self-doubt, yet at stake is the spiritual struggle against evil.[210] The Gita's message emphasizes that personal moral ambivalence must be addressed, the warrior needs to rise above "personal and social values" and understand what is at stake and "why he must fight". The text explores the "paradoxical interconnectedness of disciplined action and freedom".[210]
+
+The first reference to dharma in the Bhagavad Gita occurs in its first verse, where Dhritarashtra refers to the Kurukshetra, the location of the battlefield, as the Field of Dharma, "The Field of Righteousness or Truth".[199] According to Fowler, dharma in this verse may refer to the sanatana dharma, "what Hindus understand as their religion, for it is a term that encompasses wide aspects of religious and traditional thought and is more readily used for religion".[199] Therefore, the "field of dharma" implies the field of righteousness, where the truth will eventually triumph, states Fowler.[199] According to Jacqueline Hirst, the "field of dharma" phrase in the Gita epitomizes that the struggle concerns dharma itself. This dharma has "resonances at many different levels".[211]
+
+Asceticism, renunciation and ritualism
+The Gita rejects ascetic life, renunciation as well as Brahminical Vedic ritualism where outward actions or non-actions are considered a means of personal reward in life, the afterlife or as a means of liberation. Instead, it recommends the pursuit of an active life where the individual adopts "inner renunciation", and acts to fulfil what he determines to be his dharma, without craving for or being concerned about personal rewards, viewing this as an "inner sacrifice to the personal God for a higher good".[212][213]
+
+According to Edwin Bryant, the Indologist with publications on Krishna-related Hindu traditions, the Gita rejects "actionless behaviour" found in some Indic monastic traditions. It also "relegates the sacrificial system of the early Vedic literature to a path that goes nowhere because it is based on desires", states Bryant.[214]
+
+Moksha – liberation
+Main article: Moksha
+The Bhagavad Gita accommodates dualistic and theistic aspects of moksha. The Gita, while including impersonal Nirguna Brahman as the goal,[l] mainly revolves around the relationship between the Self and a personal God or Saguna Brahman. A synthesis of knowledge, devotion, and desireless action is offered by Krishna as a spectrum of choices to Arjuna; the same combination is suggested to the reader as a way to moksha.[215] Christopher Chapple---a scholar focusing on Indian religions---in Winthrop Sargeant's translation of the Gita, states that "In the model presented by the Bhagavad Gita, every aspect of life is a way of salvation."[216]
+
+Spiritual discipline
+Main article: Sadhana
+The Gita treats three forms of spiritual discipline - jnana, bhakti and karma – to attain the divine. However, states Fowler, it "does not raise any of these to a status that excludes the others".[217] The theme that unites these paths in the Gita is "inner renunciation" where one is unattached to personal rewards during one's spiritual journey.[217]
+
+Karma yoga – selfless action
+Main article: Karma yoga
+The Gita teaches the path of selfless action in Chapter 3 and others. It upholds the necessity of action.[218] However, this action should "not simply follow spiritual injunctions", without any attachment to personal rewards or because of craving for fruits. The Gita teaches, according to Fowler, that the action should be undertaken after proper knowledge has been applied to gain a full perspective on "what the action should be".[219][220]
+
+The concept of such detached action is also called Nishkama Karma, a term not used in the Gita but equivalent to other terms such as karma-phala-tyaga.[219] This is where one determines what the right action ought to be and then acts while being detached to personal outcomes, to fruits, to success or failure. A karma yogi finds such work inherently fulfilling and satisfying.[221] To a karma yogi, right work done well is a form of prayer,[222] and karma yoga is the path of selfless action.[223]
+
+According to Mahatma Gandhi, the object of the Gita is to show the way to attain self-realization, and this "can be achieved by selfless action, by desireless action; by renouncing fruits of action; by dedicating all activities to God, i.e., by surrendering oneself to Him, body and Self." Gandhi called the Gita "The Gospel of Selfless Action".[224] According to Jonardon Ganeri, the premise of "disinterested action" is one of the important ethical concepts in the Gita.[225]
+
+Bhakti yoga – devotion
+Main article: Bhakti yoga
+
+How does a Gita recitation sound?
+Duration: 15 seconds.0:15
+Verse 2.21 from the Bhagavad Gita (15 secs)
+On motives
+Duration: 16 seconds.0:16
+Verse 2.47, "act without craving for fruits" (16 secs)
+On meditation
+Duration: 15 seconds.0:15
+Verse 2.56, "Who is a sage" (14 secs)
+Problems playing these files? See media help.
+While the Upanishads focus more on knowledge and the identity of the self with Brahman, the Bhagavad Gita shifts the emphasis towards devotion and the worship of a personal deity, specifically Krishna.[16] In the Bhagavad Gita, bhakti is characterized as the "loving devotion, a longing, surrender, trust and adoration" of the divine Krishna as the ishta-devata.[226] While bhakti is mentioned in many chapters, the idea gathers momentum after verse 6.30, and chapter 12 is where is fully developed. According to Fowler, the bhakti in the Gita does not imply renunciation of "action", but the bhakti effort is assisted with "right knowledge" and dedication to one's dharma.[226] Theologian Catherine Cornille writes, "The text [of the Gita] offers a survey of the different possible disciplines for attaining liberation through knowledge (Jnana), action (karma), and loving devotion to God (bhakti), focusing on the latter as both the easiest and the highest path to salvation."[227]
+
+According to M. R. Sampatkumaran, a Bhagavad Gita scholar, Gita's message is that mere knowledge of the scriptures cannot lead to final release, but "devotion, meditation, and worship are essential."[228] The Gita likely spawned a "powerful devotional" movement, states Fowler, because the text and this path were simpler and available to everyone.[229]
+
+Jnana yoga – discernment of the true self
+Main article: Jnana yoga
+Jnana yoga is the path of knowledge, wisdom, and direct realization of the Brahman.[230][231] In the Bhagavad Gita, it is also referred to as buddhi yoga and its goal is the discernment of the true self.[232] The text states that this is the path that intellectuals tend to prefer.[233] The chapter 4 of the Bhagavad Gita is dedicated to the general exposition of jnana yoga.[234][235] The Gita praises the path, calling the jnana yogi to be exceedingly dear to Krishna, but adds that the path is steep and difficult.[236]
+
+Raja yoga – meditation
+Some scholars treat the "yoga of meditation," yoga proper, to be a distinct fourth path taught in the Gita, referring to it as Raja yoga.[8][237][238] Others consider it a progressive stage or a combination of Karma yoga and Bhakti yoga.[239][m] Some, such as Adi Shankara, have considered its discussion in the 13th chapter of the Gita and elsewhere to be an integral part of Jnana yoga.[240][241]
+
+Metaphysics
+To build its metaphysical framework, the text relies on the theories found in the Samkhya and Vedanta schools of Hinduism.[242]
+
+Prakriti and maya
+The Gita considers the world to be transient, all bodies and matter as impermanent. Everything that constitutes prakriti (nature, matter) is process-driven and has a finite existence. It is born, grows, matures, decays, and dies. It considers this transient reality as Maya. Like the Upanishads, the Gita focuses on what it considers real in this world of change, impermanence, and finitude.[243][242]
+
+Atman
+The Gita, states Fowler, "thoroughly accepts" atman as a foundational concept.[244] In the Upanishads, this is the Brahmanical idea that all beings have a "permanent real self", the true essence, the Self it refers to as Atman (Self).[245][246][247][note 12] In the Upanishads that preceded the Gita, such as the Brihadaranyaka Upanishad, the salvational goal is to know and realize this Self, a knowledge that is devoid of the delusions of the instinctive "I, mine" egoism typically connected with the body and material life processes that are impermanent and transient. The Gita accepts atman as the pure, unchanging, ultimate real essence.[250]
+
+Krishna and Brahman
+
+
+
+
+Chapter 11 of the Gita refers to Krishna as Vishvarupa (above). This is an idea found in the Rigveda.[251] The Vishvarupa omniform has been interpreted as symbolism for Absolute Reality, God or Self that is in all creatures, everywhere, eternally.[252][253]
+The Gita teaches both the personalized God, in the form of Krishna, and the abstract nirguna Brahman.[254][255] The text blurs any distinction between a personalized God and impersonal absolute reality by amalgamating the two and using the concepts interchangeably in later chapters,[256] though it projects the nirguna Brahman as higher than saguna or personalized Brahman, where the nirguna Brahman "exists when everything else does not".[256][257] This theme has led scholars to call the Gita panentheistic,[254] theistic as well as monistic.[258][79][76]
+
+The Gita adopts the Upanishadic concept of Absolute Reality (Brahman), a shift from the earlier ritual-driven Vedic religion to one abstracting and internalizing spiritual experiences.[254][255] According to Jeaneane Fowler, the Gita builds on the Upanishadic Brahman theme, conceptualized to be that which is everywhere, unaffected, constant Absolute, indescribable and nirguna (abstract, without features). This Absolute in the Gita is neither a He nor a She, but a "neuter principle", an "It or That".[254][255]
+
+Relation between Atman and Krishna
+The Upanishads developed the equation "Atman = Brahman", states Fowler and this belief is central to the Gita.[243] This equation is, however, interpreted in several ways by different sub-schools of Vedanta. In the Gita, the Self of each human being is considered to be identical to every other human being and all beings, but it "does not support an identity with the Brahman", according to Fowler.[243] According to Raju, the Gita supports this identity and spiritual monism, but as a form of synthesis with a personal God.[79] According to Edgerton, the authors of the Gita rely on their concept of a personalized God (Krishna) to ultimately arrive at an ultimate monism, where the devotee realizes that Krishna is the essential part, the real fundamental element within everyone and everything. Krishna is simultaneously one and all.[191] According to Huston Smith, the Gita is teaching that "when one sees the entire universe as pervaded by the single Universal Spirit [Krishna], one contemplates, marvels, and falls in love with its amazing glory. [...] Having experienced that Truth oneself, all doubts are dispelled. This is how the flower of devotion evolves into the fruit of knowledge."[259]
+
+Commentaries
+Classical Bhashya (commentaries)
+Bhagavad Gita integrates various schools of thought, notably Vedanta, Samkhya and Yoga, and other theistic ideas, but its composite nature also leads to varying interpretations of the text and scholars have written bhashya (commentaries) on it.[260][261]
+
+Many "classical and modern Hindu" intellectuals have written commentaries on the Gita.[262] According to Mysore Hiriyanna, the Gita is "one of the hardest books to interpret, which accounts for the numerous commentaries on it—each differing from the rest in one essential point or the other".[263]
+
+The Gita has attracted much scholarly interest in Indian history and some 227 commentaries have survived in the Sanskrit language alone.[264] It has also attracted commentaries in regional vernacular languages for centuries, such as the one by Sant Dnyaneshwar in Marathi (13th century).[265]
+
+The Bhagavad Gita is referenced in the Brahma Sutras and numerous scholars wrote commentaries on it, including Shankara, Bhaskara, Abhinavagupta, Ramanuja, and Madhvacharya.[266][99] Many of these commentators state that the Gita is "meant to be a moksa-shastra (moksasatra), and not a dharmasastra, an arthasastra or a kamasastra".[267]
+
+Śaṅkara (c. 800 CE)
+The oldest and most influential surviving commentary was published by Adi Shankara (Śaṅkarācārya).[268][269] Shankara interprets the Gita in a monist, nondualistic tradition (Advaita Vedanta).[270] Advaita Vedanta affirms on the non-dualism of Atman and Brahman.[271] Shankara prefaces his comments by stating that the Gita is popular among the laity, that the text has been studied and commented upon by earlier scholars (these texts have not survived), but that "I have found that to the laity it appears to teach diverse and quite contradictory doctrines". He calls the Gita "an epitome of the essentials of the whole Vedic teaching".[272] To Shankara, the teaching of the Gita is to shift an individual's focus from the outer, impermanent, fleeting objects of desire and senses to the inner, permanent, eternal atman-Brahman-Vasudeva that is identical, in everything and every being.[273]
+
+Abhinavagupta (c. 1000 CE)
+Abhinavagupta was a theologian and philosopher of the Kashmir Shaivism (Shiva) tradition.[269] His commentary, the Gitartha-Samgraha, has survived into the modern era. The Gita text he commented on is a slightly different recension than the one of Adi Shankara. He interprets its teachings in the Shaiva Advaita (monism) tradition quite similar to Adi Shankara, but with the difference that he considers both Self and matter to be metaphysically real and eternal. Their respective interpretations of jnana yoga are also somewhat different, and Abhinavagupta uses Atman, Brahman, Shiva, and Krishna interchangeably. Abhinavagupta's commentary is notable for its citations of more ancient scholars, in a style similar to Adi Shankara. However, the texts he quotes have not survived into the modern era.[274]
+
+Rāmānuja (c. 1100 CE)
+Ramanuja was a Hindu theologian, philosopher, and an exponent of the Sri Vaishnavism (Vishnu) tradition in the 11th and early 12th centuries. Like his Vedanta peers, Ramanuja wrote a bhashya (commentary) on the Gita - Gita Bhashya.[275] Ramanuja's commentary disagreed with Adi Shankara's interpretation of the Gita as a text on nondualism (Self and Brahman are identical), and instead interpreted it as a form of dualistic and qualified monism (Vishishtadvaita).[276][277]
+
+Madhva (c. 1250 CE)
+Madhva, a commentator of the Dvaita (modern taxonomy) Tatvavada (actually quoted by Madhva) Vedanta school,[269] wrote a commentary on the Bhagavad Gita, which exemplifies the thinking of the Tatvavada school (Dvaita Vedanta).[268] According to Christopher Chapelle, in Madhva's school there is "an eternal and complete distinction between the Supreme, the many Selfs, and matter and its divisions".[278] His commentary on the Gita is called Gita Bhāshya. Madhva's commentary has attracted secondary works by pontiffs of the Dvaita Vedanta monasteries such as Padmanabha Tirtha, Jayatirtha, and Raghavendra Tirtha.[279]
+
+Keśava Kāśmīri (c. 1410 CE)
+Keśava Kāśmīri Bhaṭṭa, a commentator of Dvaitādvaita Vedanta school, wrote a commentary on the Bhagavad Gita named Tattva-prakāśikā. The text states that Dasasloki—possibly authored by Nimbarka—teaches the essence of the Gita; the Gita tattva prakashika interprets the Gita also in a hybrid monist-dualist manner.[280][281]
+
+Gauḍīya Vaiṣṇava commentaries
+Chaitanya Mahaprabhu (b. 1486 CE). Commentaries on various parts of the Gita are in the Gaudiya Vaishnavism Bhakti Vedanta tradition (achintya bheda abheda).;[note 13]
+Others
+Other classical commentators include:
+
+Bhāskara (c. 900 CE) disagreed with Adi Shankara, wrote his commentary on both Bhagavad Gita and Brahma Sutras in the Bhedābheda tradition.[280] According to Bhaskara, the Gita is essentially Advaita, but not quite exactly, suggesting that "the Atman (Self) of all beings are like waves in the ocean that is Brahman". Bhaskara also disagreed with Shankara's formulation of the Maya doctrine, stating that prakriti, atman and Brahman are all metaphysically real.[280]
+Yamunacharya, Ramanuja's teacher, summarised the teachings of the Gita in his Gitartha sangraham.
+Nimbarkacharya (620 CE) Bhagavadgītā-Vākyārtha, A lost commentary on Bhagavad gītā.[283]
+Dnyaneshwar's (1290 CE)[265][284] commentary Dnyaneshwari (a.k.a. Jnaneshwari or Bhavarthadipika)[285] is the oldest surviving literary work in the Marathi language,[286] one of the foundations of the Varkari tradition (the Bhakti movement, Eknath, Tukaram) in Maharashtra .[286][287][288] The commentary interprets the Gita in the Advaita Vedanta tradition.[289] Dnyaneshwar belonged to the Nath yogi tradition. His commentary on the Gita is notable for stating that it is the devotional commitment and love with inner renunciation that matters, not the name Krishna or Shiva, either can be used interchangeably.[290][291]
+Vallabha II, a descendant of Vallabha (1479 CE), wrote the commentary Tattvadeepika in the Suddha-Advaita tradition.[260]
+Madhusudana Saraswati's commentary Gudhartha Deepika is in the Advaita Vedanta tradition.[260]
+Hanumat's commentary Paishacha-bhasya is in the Advaita Vedanta tradition.[260]
+Anandagiri's commentary Bhashya-vyakhyanam is in the Advaita Vedanta tradition.[260]
+Nilkantha's commentary Bhava-pradeeps is in the Advaita Vedanta tradition.[260]
+Shreedhara's (1400 CE) commentary Avi gita is in the Advaita Vedanta tradition.[260]
+Dhupakara Shastri's commentary Subodhini is in the Advaita Vedanta tradition.[260]
+Raghuttama Tirtha's (1548–1596), commentary Prameyadīpikā Bhavabodha is in the Dvaita Vedanta tradition.[292]
+Raghavendra Tirtha's (1595–1671) commentary Artha samgraha is in the Dvaita Vedanta tradition.[260]
+Vanamali Mishra's (1650–1720) commentary Gitagudharthacandrika is quite similar to Madhvacharya's commentary and is in the Dvaita Vedanta tradition.[293]
+Modern-era commentaries
+Among notable modern commentators of the Bhagavad Gita are Bal Gangadhar Tilak, Vinoba Bhave, Mahatma Gandhi (who called its philosophy Anasakti Yoga), Sri Aurobindo, Sarvepalli Radhakrishnan, B. N. K. Sharma, Osho, Sri Krishna Prem and Chinmayananda. Chinmayananda took a syncretistic approach to interpret the text of the Gita.[294][295]
+Tilak wrote his commentary Shrimadh Bhagavad Gita Rahasya while in jail during the period 1910–1911 serving a six-year sentence imposed by the colonial government in India for sedition.[296] While noting that the Gita teaches possible paths to liberation, his commentary places most emphasis on Karma yoga.[297]
+No book was more central to Gandhi's life and thought than the Bhagavad Gita, which he referred to as his "spiritual dictionary".[298] During his stay in Yeravada jail in 1929,[298] Gandhi wrote a commentary on the Bhagavad Gita in Gujarati. The Gujarati manuscript was translated into English by Mahadev Desai, who provided an additional introduction and commentary. It was published with a foreword by Gandhi in 1946.[299][300]
+The version by A. C. Bhaktivedanta Swami Prabhupada, entitled Bhagavad-Gita as It Is, is "by far the most widely distributed of all English Gīta translations" due to the efforts of ISKCON.[301] Its publisher, the Bhaktivēdānta Book Trust, estimates sales at twenty-three million copies, a figure which includes the original English edition and secondary translations into fifty-six other languages.[301] The Prabhupada commentary interprets the Gita in the Gaudiya Vaishnavism tradition of Chaitanya,[301] quite similar to Madhvacharya's Dvaita Vēdanta ideology.[302] It presents Krishna as the Supreme, a means of saving mankind from the anxiety of material existence through loving devotion. Unlike in Bengal and nearby regions of India where the Bhagavata Purana is the primary text for this tradition, the devotees of Prabhupada's ISKCON tradition have found better reception for their ideas by those curious in the West through the Gita, according to Richard Davis.[301]
+In 1966, Mahārishi Mahesh Yogi published a partial translation.[301]
+An abridged version with 42 verses and commentary was published by Ramana Maharishi.[303]
+Bhagavad Gita – The song of God, is a commentary by Swami Mukundananda.[304]
+Paramahansa Yogananda's two-volume commentary on the Bhagavad Gita, called God Talks with Arjuna: The Bhagavad Gita, was released in 1995 and is available in 4 languages and as an English e-book.[305] The book is significant in that unlike other commentaries of the Bhagavad Gita, which focus on karma yoga, jnana yoga, and bhakti yoga in relation to the Gita, Yogananda's work stresses the training of one's mind, or raja yoga.[306] It is published by Self-Realization Fellowship/Yogoda Satsanga Society of India.
+Eknath Easwaran's commentary interprets the Gita for his collection of problems of daily modern life.[307]
+Other modern writers such as Swami Parthasarathy and Sādhu Vāsvāni have published their own commentaries.[308]
+Academic commentaries include those by Jeaneane Fowler,[309] Ithamar Theodor,[310] and Robert Zaehner.[311]
+A collection of Christian commentaries on the Gita has been edited by Catherine Cornille, comparing and contrasting a wide range of views on the text by theologians and religious scholars.[312]
+The book The Teachings of Bhagavad Gita: Timeless Wisdom for the Modern Age by Richa Tilokani offers a woman's perspective on the teachings of the Bhagavad Gita in a simplified and reader-friendly spiritual format.[313][314]
+Swami Dayananda Saraswati published a four-volume Bhagavad Gītā, Home Study Course in 1998 based on transcripts from his teaching and commentary of the Bhagavad Gītā in the classroom. This was later published in 2011 in a new edition and nine-volume format.[315]
+Galyna Kogut and Rahul Singh published An Atheist Gets the Gita, a 21st-century interpretation of the 5,000-year-old text.[316]
+A compact edition by Satyanarayana Dasa arranges the Sanskrit words so that their corresponding meanings form complete sentences. This method, known as 'anvaya' in Sanskrit, follows the traditional way of presenting the meaning. Additionally, the book includes extensive footnotes that clarify difficult concepts.
+Anandmurti Gurumaa published a commentary on Bhagavad Gita in both English and Hindi Languages.[317][318]
+Sri Sri Ravi Shankar published a commentary on Bhagvad Gita.[citation needed]
+Translations and modern commentaries
+Persian translations
+In the sixteenth and seventeenth centuries, in the Mughal Empire, multiple Persian translations of the Gita were completed.[319]
+
+English translations
+English translations[320] 
+The first English translation of the Bhagavad Gita was published by Charles Wilkins in 1785.[322] The Wilkins translation had an introduction to the Gita by Warren Hastings. Soon the work was translated into other European languages such as French (1787), German, and Russian. In 1849, the Weleyan Mission Press, Bangalore published The Bhagavat-Geeta, Or, Dialogues of Krishna and Arjoon in Eighteen Lectures, with Sanskrit, Canarese and English in parallel columns, edited by Rev. John Garrett, with the effort being supported by Sir Mark Cubbon.[323]
+
+
+
+
+Cover pages of early Gita translations. Left: Charles Wilkins (c. 1785 CE); Center: Parraud re-translation of Wilkins (c. 1787 CE); Right: Wesleyan Mission Press (c. 1849 CE).
+In 1981, Larson stated that "a complete listing of Gita translations and a related secondary bibliography would be nearly endless".[320]: 514  According to Larson, there is "a massive translational tradition in English, pioneered by the British, solidly grounded philologically by the French and Germans, provided with its indigenous roots by a rich heritage of modern Indian comment and reflection, extended into various disciplinary areas by Americans, and having generated in our time a broadly based cross-cultural awareness of the importance of the Bhagavad Gita both as an expression of a specifically Indian spirituality and as one of the great religious "classics" of all time."[320]: 518 
+
+According to Sargeant, the Gita is "said to have been translated at least 200 times, in both poetic and prose forms".[324] Richard Davis cites a count by Callewaert & Hemraj in 1982 of 1,891 translations of the Bhagavad Gita in 75 languages, including 273 in English.[325] These translations vary,[326] and are in part an interpretative reconstruction of the original Sanskrit text that differ in their "friendliness to the reader",[327] and in the amount of "violence to the original Gita text".[328][note 27]
+
+The translations and interpretations of the Gita have been so diverse that these have been used to support contradictory political and philosophical values. For example, Galvin Flood and Charles Martin note that interpretations of the Gita have been used to support "pacifism to aggressive nationalism" in politics, from "monism to theism" in philosophy.[333] According to William Johnson, the synthesis of ideas in the Gita is such that it can bear almost any shade of interpretation.[334] A translation "can never fully reproduce an original and no translation is transparent", states Richard Davis, but in the case of the Gita the linguistic and cultural distance for many translators is large and steep which adds to the challenge and affects the translation.[335] For some native translators, their personal beliefs, motivations, and subjectivity affect their understanding, their choice of words and interpretation.[336][337][338] Some translations by Indians, with or without Western co-translators, have "orientalist", "apologetic", "Neo-Vedantic" or "guru phenomenon" biases.[320]: 525–530 
+
+According to the exegesis scholar Robert Minor, the Gita is "probably the most translated of any Asian text", but many modern versions heavily reflect the views of the organization or person who does the translating and distribution. In Minor's view, the Harvard scholar Franklin Edgerton's English translation and Richard Garbe's German translation are closer to the text than many others.[339] According to Larson, the Edgerton translation is remarkably faithful, but it is "harsh, stilted, and syntactically awkward" with an "orientalist" bias and lacks "appreciation of the text's contemporary religious significance".[320]: 524 
+
+The Gita in other European languages
+In 1808, passages from the Gita were part of the first direct translation of Sanskrit into German, appearing in a book through which Friedrich Schlegel became known as the founder of Indian philology in Germany.[340] The most significant French translation of the Gita, according to J. A. B. van Buitenen, was published by Émile Senart in 1922.[341] More recently, a new French translation was produced by the Indologist Alain Porte in 2004.[342] Swami Rambhadracharya released the first Braille version of the scripture, with the original Sanskrit text and a Hindi commentary, on 30 November 2007.[web 4]
+
+Paramahansa Yogananda's commentary on the Bhagavad Gita called God Talks with Arjuna: The Bhagavad Gita has been translated into Spanish, German, Thai and Hindi so far. The book is significant in that, unlike other commentaries of the Bhagavad Gita, which focus on karma yoga, jnana yoga, and bhakti yoga in relation to the Gita, Yogananda's work stresses the training of one's mind, or raja yoga.[306]
+
+Indian languages
+The Gita Press has published the Gita in multiple Indian languages.[343] R. Raghava Iyengar translated the Gita into Tamil in the sandam metre poetic form.[344] The Bhaktivedanta Book Trust associated with ISKCON has re-translated and published A.C. Bhaktivedanta Swami Prabhupada's 1972 English translation of the Gita in 56 non-Indian languages.[345][301][note 28] Vinoba Bhave has written the Geeta in Marathi as Geetai (or "Mother Geeta") in a similar shloka form. Uthaya Sankar SB retold the complete text in Bahasa Malaysia prose as Bhagavad Gita: Dialog Arjuna dan Krishna di Kurukshetra (2021).
+
+Adaptations in popular culture
+Philip Glass retold the story of Gandhi's early development as an activist in South Africa through the text of the Gita in the opera Satyagraha (1979). The entire libretto of the opera consists of sayings from the Gita sung in the original Sanskrit.[web 5]
+
+In Douglas Cuomo's Arjuna's Dilemma, the philosophical dilemma faced by Arjuna is dramatised in operatic form with a blend of Indian and Western music styles.[web 6]
+
+The 1993 Sanskrit film, Bhagavad Gita, directed by G. V. Iyer won the 1993 National Film Award for Best Film.[web 7][web 8]
+
+The 1995 novel by Steven Pressfield, and its adaptation as the 2000 golf movie The Legend of Bagger Vance by Robert Redford has parallels to the Bhagavad Gita, according to Steven J. Rosen. Steven Pressfield acknowledges that the Gita was his inspiration, the golfer character in his novel is Arjuna, and the caddie is Krishna, states Rosen. The movie, however, uses the plot but glosses over the teachings unlike in the novel.[348]
+
+Duty (svadharma) and the caste-system
+Neo-Hindu interpretation of svadharma
+Arjuna is advised by Krishna to do his sva-dharma, the "dharma [duty] of a particular varna."[349] Since Arjuna belongs to the warrior (kshatriya) varna (social class), Krishna is telling Arjuna to act as a warrior.[349] Neo-Hindus, preceded by medieval commentators like Dnyaneshwar, have preferred to translate svadharma not as class-related duty, or dharma as religion, but interpret it as "everyone must follow his [own] sva-dharma."[350]
+
+According to Dnyaneshwar (1275–1296), the Gita ultimately shows that caste differences are not important. For Dnyaneshwar, people err when they see themselves as distinct from each other and Krishna, and these distinctions vanish as soon as they accept, understand and enter with love unto Krishna.[351][352]
+
+According to Bankim Chandra Chatterjee (1838–1894), to render svadharma in English one must ask 'What is the sva-dharma for the non-Hindus', as the Lord did not ordain dharma only for Indians [Hindus] and "make all the others dharma-less."[350] According to Hacker, this is an attempt to "universalize Hinduism."[350]
+
+According to Swami Vivekananda (1863–1902), sva-dharma in the Gita does not mean "caste duty", rather it means the duty that comes with one's life situation (mother, father, husband, wife) or profession (soldier, judge, teacher, doctor). For Vivekananda, the Gita was an egalitarian scripture that rejected caste and other hierarchies because of its verses such as 13.27—28, which states "He who sees the Supreme Lord dwelling equally in all beings, the Imperishable in things that perish, he sees verily. For seeing the Lord as the same everywhere present, he does not destroy the Self by the Self, and thus he goes to the highest goal."[353][n]
+
+Aurobindo (1872–1950) modernises the concept of dharma by internalising it, away from the social order and its duties towards one's capacities, which leads to radical individualism,[356] "finding the fulfilment of the purpose of existence in the individual alone."[356] He deduced from the Gita the doctrine that "the functions of a man ought to be determined by his natural turn, gift, and capacities",[356] that the individual should "develop freely"[356] and thereby would be best able to serve society.[356]
+
+Gandhi's (1869–1948) view differed from Aurobindo's view.[357] He recognised in the concept of sva-dharma his idea of svadeshi (sometimes spelt swadeshi), the idea that "man owes his service above all to those who are nearest to him by birth and situation."[357] To him, svadeshi was "sva-dharma applied to one's immediate environment."[358]
+
+According to Jacqueline Hirst, the universalist neo-Hindu interpretations of dharma in the Gita are modernist readings, though any study of pre-modern distant foreign cultures is inherently subject to suspicions about "control of knowledge" and bias on the various sides.[359] Hindus have their own understanding of dharma that goes much beyond the Gita or any particular Hindu text.[359] Further, states Hirst, the Gita should be seen as a "unitary text" in its entirety rather than a particular verse analyzed separately or out of context. Krishna is presented as a teacher who "drives Arjuna and the reader beyond initial preconceptions". The Gita is a cohesively knit pedagogic text, not a list of norms.[360]
+
+Criticism of svadharma and caste-system
+The Gita has also been cited and criticized as a Hindu text that supports varna-dharma (personal duty) and the caste system.[361][362][363] B. R. Ambedkar, born in a Dalit family and served as the first Law Minister in the First Nehru Ministry, criticized the text for its stance on caste and for "defending certain dogmas of religion on philosophical grounds".[363] According to Jimmy Klausen, Ambedkar in his essay Krishna and his Gita stated that the Gita was a "tool" of Brahmanical Hinduism and for others such as Mahatma Gandhi and Lokmanya Tilak. To Ambedkar, states Klausen, it is a text of "mostly barbaric, religious particularisms" offering "a defence of the Kshatriya duty to make war and kill, the assertion that varna derives from birth rather than worth or aptitude, and the injunction to perform karma" neither perfunctorily nor egotistically.[364]
+
+In his Myth and Reality, D.D. Kosambi argued that "practically anything can be read into the Gita by a determined person, without denying the validity of a class system."[365] Kosambi argued that the Gita was a scripture that supported the superiority of the higher varnas while seeing all other varnas as "defiled by their very birth, though they may in after-life be freed by their faith in the god who degrades them so casually in this one."[365] He quotes the Gita which states that Krishna says "The four-caste (class) division has been created by Me."[365][366][o] Similarly, V. R. Narla also argues that the Gita states that God created the caste (varna) system.[367] Narla also critiques the Gita for stating that those who are not kshatriyas or Brahmins are "born from sinful wombs".[367]
+
+The Gita and war
+
+A painting of Krishna recounting Gita to Arjuna during the Kurukshetra War, from the Mahabharata. c. 1820 CE
+Allegory of war
+Unlike any other religious scripture, the Bhagavad Gita broadcasts its message in the centre of a battlefield.[368] Several modern Indian writers have interpreted the battlefield setting as an allegory for "the war within".[369] Eknath Easwaran writes that the Gita's subject is "the war within, the struggle for self-mastery that every human being must wage if he or she is to emerge from life victorious".[370]
+
+Swami Nikhilananda, takes Arjuna as an allegory of Ātman, Krishna as an allegory of Brahman, Arjuna's chariot as the body, and Dhritarashtra as the ignorant mind.[note 29] Nikhilananda's allegorical interpretation is shared by Huston Smith.[371] Swami Vivekananda interprets the first discourse in the Gita as well as the "Kurukshetra war" allegorically.[372] Vivekananda states that "when we sum up its esoteric significance, it means the war which is constantly going on within man between the tendencies of good and evil".[130]
+
+Mahatma Gandhi, in his commentary on the Gita,[373] interprets the battle as an allegory in which the battlefield is the soul and Arjuna embodies man's higher impulses struggling against evil.[374]
+
+In Aurobindo's view, Krishna was a historical figure, but his significance in the Gita is as a "symbol of the divine dealings with humanity",[375] while Arjuna typifies a "struggling human soul".[376] However, Aurobindo rejected the interpretation that the Gita, and the Mahabharata by extension, is only "an allegory of the inner life" and therefore that it has nothing to do with our outward human life and actions.[376][note 30]
+
+Promotion of just war and duty
+Scholars such as Steven Rosen, Laurie L. Patton and Stephen Mitchell have seen in the Gita a religious defence of the warrior class (Kshatriya Varna) duty (svadharma), which is to wage war with courage. They do not see only an allegorical teaching but also a real defence of just war.[377][378]
+
+Indian independence leaders like Lala Lajpat Rai and Bal Gangadhar Tilak saw the Gita as a text which defended war when necessary and used it to promote armed rebellion against colonial rule. Lajpat Rai wrote an article on the "Message of the Bhagavad Gita". He saw the main message as the bravery and courage of Arjuna to fight as a warrior.[379] Bal Gangadhar Tilak saw the Gita as defending killing when necessary for the betterment of society, such as, for example, the killing of Afzal Khan.[379]
+
+Pacifism and the Gita
+Because by the end of the Gita, Krishna convinces Arjuna that it is his right and duty to fight, the Gita has been argued by some as pro-war, while others argue it is neither pro- nor anti-war.[380]
+
+Noted author Christopher Isherwood suffered the death of his father in WWI and saw no serious effort by the Allies to avoid plunging head-on into the next war. In his novels, The Berlin Stories, he describes life in Germany as the Nazis rose to power. In the late 1930s, with advice from and influence of Aldous Huxley and Gerald Heard[381] he became a practising pacifist and Conscientiousness Objector, working with the Quakers, doing alternative service to help settle Jewish refugees fleeing the war.[382][383][384] In 1944, Isherwood worked with Swami Prabhavananda of the Vedanta Society of Southern California to translate the Bhagavad Gita into English.[385] In the Appendix, there is an essay written by Isherwood titled, The Gita and War. He argues that in certain circumstances, it would be quite alright to refuse to fight. In Arjuna's particular circumstances, since it is a righteous war, and he is a warrior by birth and trade, he must fight.[386]
+
+...every action, under certain circumstances and for certain people, maybe a stepping-stone to spiritual growth—if it is done in the spirit of non-attachment. There is no question, here, of doing evil that good may come. The Gita does not countenance such opportunism. Arjuna is to do the best he knows, in order to pass beyond that best to better.[387]
+
+Ethics, war and violence
+Soon after Krishna's peace mission fails, Krishna in the Gita persuades Arjuna to wage war where the enemy includes some of his own relatives and friends. In light of the Ahimsa (non-violence) teachings in Hindu scriptures, the Gita has been criticized as violating the Ahimsa value, or alternatively, as supporting political violence.[388] The justification of political violence when peaceful protests and all else fails, states Varma, has been a fairly common feature of modern Indian political thought along with the mighty antithesis of Gandhian thought on non-violence. During the independence movement in India, Indians (especially the Hindus) considered the active burning and drowning of British goods. While technically illegal under colonial legislation, these acts were viewed as a moral and just war for the sake of liberty and righteous values of the type that the Gita discusses.[389] According to Nicholas Owen, the influential Hindu nationalist (and the father of Hindutva) Veer Savarkar often turned to Hindu scriptures such as the Bhagavad Gita, arguing that the text justified violence against those who would harm Mother India.[390]
+
+Narla Venkateswara Rao, in his book-length critique of the text titled The Truth About the Gita, criticizes the ethical teachings of the Gita. He argues that the ethics of the Gita are so ambiguous, that one can use it to justify any ethical position and primarily supports a warrior ethos.[391] In his Myth and Reality, the Indian historian Damodar Dharmananda Kosambi argued that the Gita was written as a religious text that could provide support for the actions of the upper castes, including the warrior caste. These sorts of exhortations to battle would not have been uncommon in ancient India as it was the job of Indian bards. Kosambi writes that in the Gita, "the high god repeatedly emphasizes the great virtue of non-killing (ahimsa), yet the entire discourse is an incentive to war."[392] He also cites the Gita, which states: "If slain, you gain heaven; if victorious, the earth; so up, son of Kunti, and concentrate on fighting."[392] Kosambi argues that the injunctions and excuses for killing found in the Gita are unethical.[392]
+
+The Indian jurist and politician B. R. Ambedkar interpreted the Gita as an unethical defence of violence based on the eternity of the soul (atman). Ambedkar wrote, "To say that killing is no killing because what is killed is the body and not the soul is unheard of defence of murder...If Krishna were to appear as a lawyer acting for a client who is being tried for murder and pleaded the defence set out by him in the Bhagavad Gita there is not the slightest doubt that he would be sent to the lunatic asylum." Ethicist Jeremy Engels notes that in contrast to Ambedkar's view, other readers, including Ralph Waldo Emerson and Walt Whitman, as well as "most pandits and yogis", understand the Gita's message not as a literal call to war, but as an allegory for the inner battle between good and evil in the human soul.[393]
+
+In his introduction to his translation of the Gita, Purushottama Lal argues that while Arjuna appears as a pacifist, concerned with ahimsa, Krishna "is the militarist" who convinces him to kill.[394] According to Lal, Krishna makes use of a "startling" argument to convince Arjuna to kill, which Lal outlines as "the Ātman is eternal; only the body dies; so, go ahead and kill – you will kill only the body, the atman will remain unaffected [2:19-21]."[394] Lal states that "there could hardly be a better example of forked-tongue speciousness."[394] Lal further argues that: "the truth of the matter surely is that no rational refutation is possible of the essential humanist position that killing is wrong...many of the answers given by Krishna appear to be evasive and occasionally sophistic. When logic fails, Krishna apparently resorts to divine magic."[394] According to Lal, in the Gita, Krishna "stuns Arjuna with a glorious 'revelation' of psychedelic intensity." This "confidence trick" is problematic for Lal, who sees Arjuna's plight as a "painful and honest problem that Krishna should have faced on its own terms, painfully and honestly, and did not".[394]
+
+Mahatma Gandhi credited his commitment to ahimsa to the Gita. For Gandhi, the Gita is teaching that people should fight for justice and righteous values and that they should never meekly suffer injustice to avoid a war. According to the Indologist Ananya Vajpeyi, the Gita does not elaborate on the means or stages of war, nor on ahimsa, except for stating that "ahimsa is virtuous and characterizes an awakened, steadfast, ethical man."[395] For Gandhi, states Vajpeyi, ahimsa is the "relationship between self and other" as he and his fellow Indians battled against colonial rule. Gandhian ahimsa is in fact "the essence of the entire Gita", according to Vajpeyi.[395] The teachings of the Gita on ahimsa are ambiguous, states Arvind Sharma, and this is best exemplified by the fact that Nathuram Godse stated the Gita as his inspiration to do his dharma after he assassinated Mahatma Gandhi.[143][396] Thomas Merton, the Trappist monk and author of books on Zen Buddhism, concurs with Gandhi and states that the Gita is not teaching violence nor propounding a "make war" ideology. Instead, it is teaching peace and discussing one's duty to examine what is right and then act with pure intentions, when one faces difficult and repugnant choices.[397]
+
+Psychotherapeutic interpretation
+Prominent Indian psychiatrists referenced the Gita as a source for developing a culturally sensitive psychotherapeutic model.[398] Krishna, has been compared to a cognitive therapist, in relation to Arjuna, who suffers from both physical and psychological symptoms of mental disturbance. Physically, Arjuna's mouth dries up, his limbs tremble, and his hairs stand on their ends. Psychologically, he faces anxiety, confusion, and negative self-evaluation.[398] Krishna corrects Arjuna's cognitive state by introducing a new framework of action, which is removed from anticipation of the outcome. The concepts of jnana, karma, and bhakti can be taken as three steps for cognitive restructuring.[398]
+
+See also
+Ashtavakra Gita
+Avadhuta Gita
+Devi Gita
+Ganesha Gita
+Guru Gita
+Uddhava Gita
+Vyadha Gita
+Notes
+ "God" here denotes Krishna.[2]
+ Synthesis of traditions:
+Minor (1986, pp. 74–75, 81) states that the Gita is "more clearly defined as a synthesis of Vedanta, Yoga and Samkhya" philosophies.
+According to the Gita translator Radhakrishnan, quoted in a review by Robinson, Krishna's discourse is a "comprehensive synthesis" that inclusively unifies the competing strands of Hindu thought such as "Vedic ritual, Upanishadic wisdom, devotional theism and philosophical insight" (Robinson 2006, p. 95).
+According to Cornille (2006, p. 2), the Gita presents the main beliefs of Hinduism, stressing upon the importance of detachment, duty, the prevalence of gunas, the difference between body and immortal soul, and its transmigration.
+According to Raju (1992, p. 211), the Bhagavad Gita is a great synthesis of impersonal spiritual monism with personal God, of "the yoga of action with the yoga of transcendence of action, and these again with the yogas of devotion and knowledge" .
+Aurobindo described the text as a synthesis of various Yogas.
+ The Gita teaches that there are two selves within man--an individual self which may be identified with mind/ego/personality that is the false or apparent self, and the supreme Self within the sheath of the individual self which is called Atman and is thus Brahman, the Supreme Self. The individual self is mutable and in a state of subjection. The supreme Self is changeless and persists throughout all the experiences of life and survives the crisis of death; it is free. This Self is not the soul in the popular Western sense but is the Divine Lord. It is the core of inner calm where all tensions and fears cease. It is within every person.[71]
+ the Self is the spectator who views the action of the empirical self. He is untouched by the experiences of the individual in which he dwells. He is in a real sense the core of inner calm, the Very Person within the mutable psychophysical self or personality. Man’s tragedy is his unawareness of this core of Reality--Self. There is some type of contact between this inner Self and the outer sheath of the thinking, feeling empirical self. When the absolute Self is in such contact it is called, as mentioned previously, jiva. Theos Bernard writes: "When a part of the Universal Breath becomes ensconced in the protoplasmic environment which it animates, it is called jiva." The body is the scene of this contact between the individual and the supreme Self. Some commentators interpret the scene between Arjuna and Krishna on the battlefield of Kurukshetra as a "timeless dialogue carried on in the recesses of every striving soul, the chariot being symbolic of the body of man (See Katha Upanishad 1.3.3.) The Gita thus would not disparage the physical body but would honour it as "a vehicle for the manifestation of the Eternal."[72]
+ Vyasa:
+* Sullivan (1999, p. 1): "Vyasa, however, has often been described as mythical, because his existence is impossible to prove except in myths and legends such as are preserved in the epic Mahabharata. The texts attributed to Vyasa are considered by modern scholars as certainly the product of many contributors over the course of centuries, and Vyasa's authorship has accordingly been described as 'symbolic'."
+* Williams (2008, p. 304): "Veda Vyasa was said to have edited the four Vedas and authored the Puranas and the Mahabharata. Accomplishing all that would require a human who lived several thousand years, so scholars do place the story of his achievements as those of one man in the area of mythology."
+Davis (2014, p. 37): "Textual historians generally prefer terms that undercut any implications of Vyasa's actual authorship. They refer to Vyasa as a mythical or symbolic author of the Mahabharata."
+ According to Deutsch & Dalvi (2004, pp. 61–62), the authors of the Bhagavad Gita must have seen the appeal of the soteriologies found in "the heterodox traditions of Buddhism and Jainism" as well as those found in "the orthodox Hindu traditions of Samkhya and Yoga." The Gita attempts to present a harmonious, universalist answer.
+ According to religious interpreters such as Swami Vivekananda the text states that there is a Living God in every human being and the devoted service to this Living God in everyone – without craving for personal rewards – is a means to spiritual development and liberation.[89][90][91]
+ The Brahma sutras constitute the Nyāya prasthāna or the "starting point of reasoning canonical base", while the principal Upanishads constitute the Sruti prasthāna or the "starting point of heard scriptures", and the Bhagavad Gita constitutes the Smriti prasthāna or the "starting point of remembered canonical base" (Isaeva 1992, p. 35 with footnote 30).
+ See Gita Mahatmya.
+ In this verse, "kālo ’smi loka-kṣhaya-kṛit" translates literally as "time I am, the source of destruction of the worlds,"[103] or "world-destroying time," a reference to the relativity of the created world, and an injunction to surrender oneself to the eternal force beyond it.[104] Oppenheimer studied Sanskrit under Arthur W. Ryder, who used the word death instead of time in his rendering of this verse, unlike most translators. James Hijiya writes: "Ryder’s translation here is a little peculiar but defensible. [...] The passage of a vast expanse of time implies death, thus making 'Death' a legitimate translation. In his rendering of the passage, Oppenheimer followed his teacher, Ryder. This variant was especially appropriate for describing a nuclear explosion, which could bring a great deal of Death in very little Time."[105]
+ Buitenen (2013, pp. 6–7): "Its [Bhagavadgita's] importance as a religious text is demonstrated by its uniquely pan-Hindu influence".
+ Liberation or moksha in Vedanta philosophy is not something that can be acquired. Ātman (Self) and Self-knowledge, along with the loss of egotistic ignorance, the goal of moksha, is always present as the essence of the self, and must be realized by each person by one's own effort. While the Upanishads largely uphold such a monistic viewpoint of liberation.
+ Sivananda's commentary regards the eighteen chapters of the Bhagavad Gita as having a progressive order, by which Krishna leads "Arjuna up the ladder of Yoga from one rung to another" (Sivananda 1995, p. xvii). The influential commentator Madhusudana Sarasvati divided the Gita's eighteen chapters into three sections with six chapters each. Swami Gambhirananda characterises Madhusudana Sarasvati's system as a successive approach in which Karma yoga leads to Bhakti yoga, which in turn leads to Jnana yoga (Gambhirananda 1997, pp. xx, 16):
+* Chapters 1–6: Karma yoga, the means to the final goal
+* Chapters 7–12: Bhakti yoga or devotion
+* Chapters 13–18: Jnana yoga or knowledge, the goal itself
+ This view in the Gita of the unity and equality in the essence of all individual beings as the hallmark of a spiritually liberated, wise person is also found in the classical and modern commentaries on Gita verses 5.18, 6.29, and others.[354][355]
+ Scholars have contested Kosambi's criticism of the Gita based on its various sections on karma yoga, bhakti yoga and jnana yoga.[366]
+ According to the Indologist and Sanskrit literature scholar Moriz Winternitz, the founder of the early Buddhist Sautrāntika school named Kumaralata (1st century CE) mentions both Mahabharata and Ramayana, along with early Indian history on writing, art and painting, in his Kalpanamanditika text. Fragments of this early text have survived into the modern era.[37]
+ This legend is depicted with Ganesha (Vinayaka) iconography in Hindu temples where he is shown with a broken right tusk and his right arm holds the broken tusk as if it was a stylus.[40][41]
+ According to Basham, passionately theistic verses are found, for example, in chapters 4, 7, 9, 10, 11, 14.1–6 with 14.29, 15, 18.54–78; while more philosophical verses with one or two verses where Krishna identifies himself as the highest god are found, for example, in chapters 2.38–72, 3, 5, 6, 8, 13 and 14.7–25, 16, 17 and 18.1–53. Further, states Basham, the verses that discuss Gita's "motiveless action" doctrine were probably authored by someone else and these constitute the most important ethical teaching of the text.[11]
+ The debate about the relationship between the Gita and the Mahabharata is historic, in part the basis for chronologically placing the Gita and its authorship. The Indologist Franklin Edgerton was among the early scholars and a translator of the Gita who believed that the Gita was a later composition that was inserted into the epic, at a much later date, by a creative poet of great intellectual power intimately aware of emotional and spiritual aspects of human existence.[43] Edgerton's primary argument was that it makes no sense that two massive armies facing each other on a battlefield will wait for two individuals to have a lengthy dialogue. Further, he states that the Mahabharata has numerous such interpolations and inserting the Gita would not be unusual.[43] In contrast, the Indologist James Fitzgerald states, like van Buitenen, that the Bhagavad Gita is the centrepiece and essential to the ideological continuity in the Mahabharata, and the entire epic builds up to the fundamental dharma questions in the Gita. This text, states Fitzgerald, must have been integral to the earliest version of the epic.[44]
+ Other parallelism includes verse 10.21 of Gita replicating the structure of verse 1.2.5 of the Shatapatha Brahmana.[48]
+ An alternate way to describe the poetic structure of Gita, according to Sargeant, is that it consists of "four lines of eight syllables each", similar to one found in Longfellow's Hiawatha.[60]
+ In the epic Mahabharata, after Sanjaya—counsellor of the Kuru king Dhritarashtra—returns from the battlefield to announce the death of Bhishma, he begins recounting the details of the Mahabharata war. Bhagavad Gita is a part of this recollection.[63]
+ This is called the doctrine of nishakama karma in Hinduism.[85][86]
+ Some editions include the Gita Dhyanam consisting of 9 verses. The Gita Dhyanam is not a part of the original Bhagavad Gita, but some modern era versions insert it as a prefix to the Gītā. The verses of the Gita Dhyanam (also called Gītā Dhyāna or Dhyāna Ślokas) offer salutations to a variety of sacred scriptures, figures, and entities, characterise the relationship of the Gītā to the Upanishads, and affirm the power of divine assistance.[138][139]
+ This is the avatara concept found in the Vaishnavism tradition of Hinduism.[151]
+ For alternate worded translations, see Radhakrishnan,[155] Miller,[156] Sargeant,[157] Edgerton,[158] Flood & Martin,[159] and others.
+ This contrasts with a few competing schools of Indian religions which denied the concept of Self.[248][249]
+ According to Edwin Bryant and Maria Ekstrand, this school incorporates and integrates aspects of "qualified monism, dualism, monistic dualism, and pure nondualism".[282]
+ Second edition in 1898
+ Or Bhagavat-Gita, Edwin Arnold, reprinted by Dover Publications, New York, 1900
+ Reprinted by Theosophical University Press, Los Angeles, California, 1967
+ Reprinted by Theosophical Publishing House, Los Angeles, California, 1987
+ Eventually published by Navajivan Publishing House, Ahmedabad, 1946.
+ Reprint 1995
+ Reprint 1974
+ Only the first six chapters were translated
+ Reprint 1996
+ A trans-creation rather than translation
+ Originally translated in 1933
+ Implicitly targeted at children, or young adults
+ Originally translated in 2005 and also based on Critical Edition by BORI
+ Sanskrit scholar Barbara Stoler Miller produced a translation in 1986 intended to emphasise the poem's influence and current context within English Literature, especially the works of T.S. Eliot, Henry David Thoreau and Ralph Waldo Emerson.[329] The translation was praised by scholars as well as literary critics.[330][331] Similarly, the Hinduism scholar Jeaneane Fowler's translation and student text has been praised for its comprehensive introduction, quality of translation, and commentary.[332]
+ Teachings of International Society for Krishna Consciousness (ISKCON), a Gaudiya Vaishnava religious organisation which spread rapidly in North America in the 1970s and 1980s, are based on a translation of the Gita called Bhagavad-Gītā As It Is by A.C. Bhaktivedanta Swami Prabhupada.[346] These teachings are also illustrated in the dioramas of Bhagavad-gita Museum in Los Angeles, California.[347]
+ Nikhilananda & Hocking 2006, p. 2 "Arjuna represents the individual Self, and Sri Krishna the Supreme Self dwelling in every heart. Arjuna's chariot is the body. The blind king Dhritarashtra is the mind under the spell of ignorance, and his hundred sons are man's numerous evil tendencies. The battle, a perennial one, is between the power of good and the power of evil. The warrior who listens to the advice of the Lord speaking from within will triumph in this battle and attain the Highest Good."
+ Aurobindo writes, "... That is a view which the general character and the actual language of the epic does not justify and, if pressed, would turn the straightforward philosophical language of the Gita into a constant, laborious and somewhat puerile mystification ... the Gita is written in plain terms and professes to solve the great ethical and spiritual difficulties which the life of man raises, and it will not do to go behind this plain language and thought and wrest them to the service of our fancy. But there is this much of truth in the view that the setting of the doctrine, though not symbolical, is certainly typical.[376]
