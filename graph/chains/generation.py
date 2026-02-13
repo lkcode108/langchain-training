@@ -1,7 +1,7 @@
+from dotenv import load_dotenv
 from langchain_classic import hub
 from langchain_core.output_parsers import StrOutputParser
 from langchain_openai import ChatOpenAI
-from dotenv import load_dotenv
 
 load_dotenv()
 
